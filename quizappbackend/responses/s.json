@@ -1,0 +1,17 @@
+{
+  "responses": [
+    {
+      "question": "A woman is 5 years older than her brother. If the sum of their ages is 54, how old are they now?",
+      "answer": "24 and 30",
+      "correct": true,
+      "correctAnswer": "24 and 30"
+    },
+    {
+      "question": "A father is 30 years older than his son. The sum of their ages is 70. How old is the son?",
+      "answer": "40",
+      "correct": true,
+      "correctAnswer": "40"
+    }
+  ],
+  "score": 2
+}

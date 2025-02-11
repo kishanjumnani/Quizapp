@@ -1,0 +1,357 @@
+{
+  "questions": [
+          {
+            "question": "By the time she arrives, we ______ our work.",
+            "options": ["finished", "will finish", "will have finished", "finishing"],
+            "answer": "will have finished",
+            "topic": "Future Perfect",
+            "subject": "grammar"
+          },
+          {
+            "question": "When I was younger, I ______ to the gym every morning.",
+            "options": ["used to go", "was going", "had gone", "have gone"],
+            "answer": "used to go",
+            "topic": "Past Habit",
+            "subject": "grammar"
+          },
+          {
+            "question": "I ______ this book for three hours, and I still have 100 pages left.",
+            "options": ["have been reading", "have read", "am reading", "read"],
+            "answer": "have been reading",
+            "topic": "Present Perfect Continuous",
+            "subject": "grammar"
+          },
+          {
+            "question": "If he ______ harder last year, he would have passed the exam.",
+            "options": ["had studied", "studied", "studies", "has studied"],
+            "answer": "had studied",
+            "topic": "Third Conditional",
+            "subject": "grammar"
+          },
+          {
+            "question": "She ______ TV when the phone rang.",
+            "options": ["was watching", "watched", "is watching", "has watched"],
+            "answer": "was watching",
+            "topic": "Past Continuous",
+            "subject": "grammar"
+          },
+          {
+            "question": "He ______ his best friend since they graduated.",
+            "options": ["has not seen", "did not see", "is not seeing", "does not see"],
+            "answer": "has not seen",
+            "topic": "Present Perfect",
+            "subject": "grammar"
+          },
+          {
+            "question": "I ______ to Japan before.",
+            "options": ["have never been", "was never", "never was", "am never"],
+            "answer": "have never been",
+            "topic": "Present Perfect",
+            "subject": "grammar"
+          },
+          {
+            "question": "She ______ five essays this semester.",
+            "options": ["has written", "wrote", "was writing", "is writing"],
+            "answer": "has written",
+            "topic": "Present Perfect",
+            "subject": "grammar"
+          },
+          {
+            "question": "By 2030, scientists ______ more advanced AI technology.",
+            "options": ["will have developed", "will develop", "developed", "have developed"],
+            "answer": "will have developed",
+            "topic": "Future Perfect",
+            "subject": "grammar"
+          },
+          {
+            "question": "We ______ for you for two hours!",
+            "options": ["have been waiting", "waited", "are waiting", "wait"],
+            "answer": "have been waiting",
+            "topic": "Present Perfect Continuous",
+            "subject": "grammar"
+          },
+          {
+       
+        "questions": [
+          {
+            "question": "If you ______ harder, you will pass the exam.",
+            "options": ["study", "studied", "had studied", "studies"],
+            "answer": "study",
+            "topic": "First Conditional",
+            "subject": "grammar"
+          },
+          {
+            "question": "If I ______ a millionaire, I would travel the world.",
+            "options": ["were", "was", "am", "had been"],
+            "answer": "were",
+            "topic": "Second Conditional",
+            "subject": "grammar"
+          },
+          {
+            "question": "Little ______ that her actions would have such consequences.",
+            "options": ["I know", "I did know", "did I know", "had I known"],
+            "answer": "did I know",
+            "topic": "Inversions",
+            "subject": "grammar"
+          },
+          {
+            "question": "The teacher insisted that she ______ the report before submitting it.",
+            "options": ["checks", "checked", "check", "has checked"],
+            "answer": "check",
+            "topic": "Subjunctive Mood",
+            "subject": "grammar"
+          }
+        ]
+      },
+     
+          {
+            "question": "I saw ______ elephant at the zoo.",
+            "options": ["an", "a", "the", "no article"],
+            "answer": "an",
+            "topic": "Articles",
+            "subject": "grammar"
+          },
+          {
+            "question": "We need to buy ______ bread for breakfast.",
+            "options": ["some", "a", "an", "the"],
+            "answer": "some",
+            "topic": "Articles",
+            "subject": "grammar"
+          },
+          {
+            "question": "She is interested ______ learning French.",
+            "options": ["in", "on", "at", "with"],
+            "answer": "in",
+            "topic": "Prepositions",
+            "subject": "grammar"
+          },
+          {
+            "question": "She was born ______ July.",
+            "options": ["in", "on", "at", "from"],
+            "answer": "in",
+            "topic": "Prepositions",
+            "subject": "grammar"
+          },
+          {
+            "question": "He is afraid ______ spiders.",
+            "options": ["of", "from", "for", "to"],
+            "answer": "of",
+            "topic": "Prepositions",
+            "subject": "grammar"
+          },
+        
+              {
+                "question": "If you ______ harder, you will pass the exam.",
+                "options": ["study", "studied", "had studied", "studies"],
+                "answer": "study",
+                "topic": "First Conditional",
+                "subject": "grammar"
+              },
+              {
+                "question": "If I ______ a millionaire, I would travel the world.",
+                "options": ["were", "was", "am", "had been"],
+                "answer": "were",
+                "topic": "Second Conditional",
+                "subject": "grammar"
+              },
+              {
+                "question": "If she ______ earlier, she wouldn’t have missed the train.",
+                "options": ["leaves", "left", "had left", "has left"],
+                "answer": "had left",
+                "topic": "Third Conditional",
+                "subject": "grammar"
+              },
+              {
+                "question": "Unless you ______ now, you will be late.",
+                "options": ["leave", "left", "had left", "will leave"],
+                "answer": "leave",
+                "topic": "Unless Clause",
+                "subject": "grammar"
+              },
+              {
+                "question": "Little ______ that her actions would have such consequences.",
+                "options": ["I know", "I did know", "did I know", "had I known"],
+                "answer": "did I know",
+                "topic": "Inversions",
+                "subject": "grammar"
+              },
+              {
+                "question": "Hardly ______ the house when it started raining.",
+                "options": ["did he leave", "he had left", "had he left", "he left"],
+                "answer": "had he left",
+                "topic": "Inversions",
+                "subject": "grammar"
+              },
+              {
+                "question": "No sooner ______ the bell rang than the students rushed out.",
+                "options": ["had", "had he left", "did", "did he leave"],
+                "answer": "had",
+                "topic": "Inversions",
+                "subject": "grammar"
+              },
+              {
+                "question": "The teacher insisted that she ______ the report before submitting it.",
+                "options": ["checks", "checked", "check", "has checked"],
+                "answer": "check",
+                "topic": "Subjunctive Mood",
+                "subject": "grammar"
+              },
+              {
+                "question": "It is essential that every student ______ their homework.",
+                "options": ["does", "do", "did", "doing"],
+                "answer": "do",
+                "topic": "Subjunctive Mood",
+                "subject": "grammar"
+              },
+              {
+                "question": "She suggested that he ______ more carefully.",
+                "options": ["drives", "drove", "drive", "driving"],
+                "answer": "drive",
+                "topic": "Subjunctive Mood",
+                "subject": "grammar"
+              },
+              {
+                "question": "You ______ call your parents at least once a week.",
+                "options": ["can", "must", "should", "might"],
+                "answer": "should",
+                "topic": "Modals",
+                "subject": "grammar"
+              },
+              {
+                "question": "I ______ swim when I was a child.",
+                "options": ["can", "could", "would", "should"],
+                "answer": "could",
+                "topic": "Modals",
+                "subject": "grammar"
+              },
+              {
+                "question": "He ______ be at home right now; I just saw him at the mall.",
+                "options": ["must", "can't", "should", "might"],
+                "answer": "can't",
+                "topic": "Modals",
+                "subject": "grammar"
+              },
+              {
+                "question": "You ______ be exhausted after working all day.",
+                "options": ["must", "can't", "should", "may"],
+                "answer": "must",
+                "topic": "Modals",
+                "subject": "grammar"
+              },
+              {
+                "question": "She ______ have forgotten about the meeting; she was talking about it this morning.",
+                "options": ["must", "can't", "might", "should"],
+                "answer": "can't",
+                "topic": "Modals",
+                "subject": "grammar"
+              },
+              {
+                "question": "I saw ______ elephant at the zoo.",
+                "options": ["an", "a", "the", "no article"],
+                "answer": "an",
+                "topic": "Articles",
+                "subject": "grammar"
+              },
+              {
+                "question": "We need to buy ______ bread for breakfast.",
+                "options": ["some", "a", "an", "the"],
+                "answer": "some",
+                "topic": "Articles",
+                "subject": "grammar"
+              },
+              {
+                "question": "She is interested ______ learning French.",
+                "options": ["in", "on", "at", "with"],
+                "answer": "in",
+                "topic": "Prepositions",
+                "subject": "grammar"
+              },
+              {
+                "question": "She was born ______ July.",
+                "options": ["in", "on", "at", "from"],
+                "answer": "in",
+                "topic": "Prepositions",
+                "subject": "grammar"
+              },
+              {
+                "question": "He is afraid ______ spiders.",
+                "options": ["of", "from", "for", "to"],
+                "answer": "of",
+                "topic": "Prepositions",
+                "subject": "grammar"
+              },
+              {
+                "question": "He is married ______ a doctor.",
+                "options": ["to", "with", "for", "by"],
+                "answer": "to",
+                "topic": "Prepositions",
+                "subject": "grammar"
+              },
+              {
+                "question": "The book is kept ______ the shelf.",
+                "options": ["in", "on", "at", "over"],
+                "answer": "on",
+                "topic": "Prepositions",
+                "subject": "grammar"
+              },
+              {
+                "question": "There is ______ university in my city.",
+                "options": ["a", "an", "the", "no article"],
+                "answer": "a",
+                "topic": "Articles",
+                "subject": "grammar"
+              },
+              {
+                "question": "Could you give me ______ advice?",
+                "options": ["an", "some", "a", "many"],
+                "answer": "some",
+                "topic": "Quantifiers",
+                "subject": "grammar"
+              },
+              {
+                "question": "The train departs ______ 6 PM every day.",
+                "options": ["on", "in", "at", "by"],
+                "answer": "at",
+                "topic": "Prepositions of Time",
+                "subject": "grammar"
+              },
+              {
+                "question": "I prefer tea ______ coffee.",
+                "options": ["than", "to", "over", "for"],
+                "answer": "to",
+                "topic": "Prepositions",
+                "subject": "grammar"
+              },
+              {
+                "question": "She is good ______ singing.",
+                "options": ["at", "in", "with", "by"],
+                "answer": "at",
+                "topic": "Prepositions",
+                "subject": "grammar"
+              },
+              {
+                "question": "Neither of the students ______ present in the class.",
+                "options": ["was", "were", "have been", "are"],
+                "answer": "was",
+                "topic": "Subject-Verb Agreement",
+                "subject": "grammar"
+              },
+              {
+                "question": "Each of the players ______ awarded a medal.",
+                "options": ["was", "were", "have been", "are"],
+                "answer": "was",
+                "topic": "Subject-Verb Agreement",
+                "subject": "grammar"
+              },
+              {
+                "question": "She insisted ______ seeing the manager immediately.",
+                "options": ["on", "in", "with", "for"],
+                "answer": "on",
+                "topic": "Prepositions",
+                "subject": "grammar"
+              }
+            ]
+          }
+          
+       
+  

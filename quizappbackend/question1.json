@@ -1,0 +1,844 @@
+{
+    "questions": [
+        {
+            "question": "A woman is 5 years older than her brother. If the sum of their ages is 54, how old are they now?",
+            "options": [
+                "24 and 30",
+                "20 and 26",
+                "18 and 24",
+                "28 and 34"
+            ],
+            "answer": "24 and 30",
+            "topic": "ages"
+        },
+        {
+            "question": "A man is 40 years old and his son is half his age. How old will the son be when the father is 60?",
+            "options": [
+                "30",
+                "35",
+                "40",
+                "45"
+            ],
+            "answer": "30",
+            "topic": "ages"
+        },
+        {
+            "question": "A father is three times as old as his son. If the sum of their ages is 48, how old is the son?",
+            "options": [
+                "12",
+                "14",
+                "16",
+                "18"
+            ],
+            "answer": "12",
+            "topic": "ages"
+        },
+        {
+            "question": "What comes next in the sequence: A, D, G, J, M?",
+            "options": [
+                "N",
+                "O",
+                "P",
+                "Q"
+            ],
+            "answer": "P",
+            "topic": "sequences"
+        },
+        {
+            "question": "What comes next in the sequence: B, E, H, K, N?",
+            "options": [
+                "P",
+                "Q",
+                "R",
+                "S"
+            ],
+            "answer": "Q",
+            "topic": "sequences"
+        },
+        {
+            "question": "Pen is to write as knife is to?",
+            "options": [
+                "Cut",
+                "Sharp",
+                "Blade",
+                "Hold"
+            ],
+            "answer": "Cut",
+            "topic": "analogies"
+        },
+        {
+            "question": "Doctor is to hospital as teacher is to?",
+            "options": [
+                "School",
+                "Book",
+                "Student",
+                "Office"
+            ],
+            "answer": "School",
+            "topic": "analogies"
+        },
+        {
+            "question": "Choose the odd one out: Apple, Banana, Grapes, Chair",
+            "options": [
+                "Apple",
+                "Banana",
+                "Grapes",
+                "Chair"
+            ],
+            "answer": "Chair",
+            "topic": "odd one out"
+        },
+        {
+            "question": "Choose the odd one out: Dog, Cat, Cow, Tomato",
+            "options": [
+                "Dog",
+                "Cat",
+                "Cow",
+                "Tomato"
+            ],
+            "answer": "Tomato",
+            "topic": "odd one out"
+        },
+        {
+            "question": "If January 1, 2006, was a Sunday, what day of the week was January 1, 2010?",
+            "options": [
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ],
+            "answer": "Friday",
+            "topic": "calendar"
+        },
+        {
+            "question": "A boy walks 10 km east, turns left and walks 15 km, then turns right and walks 20 km. How far is he from the starting point?",
+            "options": [
+                "25 km",
+                "30 km",
+                "33.54 km",
+                "35 km"
+            ],
+            "answer": "33.54 km",
+            "topic": "distance & directions"
+        },
+        {
+            "question": "A software company's revenue dropped by 25% last quarter. What could be the primary reason?",
+            "options": [
+                "Increased competition",
+                "Higher employee salaries",
+                "New product launch",
+                "Improved marketing strategy"
+            ],
+            "answer": "Increased competition",
+            "topic": "business & economics"
+        },
+
+        {
+            "question": "All cats are mammals. All mammals have hair. Which of the following is true?",
+            "options": [
+                "Some cats do not have hair",
+                "All cats have hair",
+                "Some mammals are not cats",
+                "All mammals are cats"
+            ],
+            "answer": "All cats have hair",
+            "topic": "logical reasoning"
+        },
+        {
+            "question": "Ajit said to Abhijit, 'I am the only son of one of the sons of my father.' How is Ajit related to Abhijit?",
+            "options": [
+                "Brother",
+                "Son",
+                "Uncle",
+                "Father"
+            ],
+            "answer": "Son",
+            "topic": "family relationships"
+        },
+        {
+            "question": "A bus is traveling from City A to City B. It reaches City B on time, but due to heavy rainfall, the roads are flooded, and vehicles are not able to move. What should be the course of action?",
+            "options": [
+                "Continue driving despite the flooded roads",
+                "Wait for the water levels to go down or find an alternative route",
+                "Abandon the bus and walk to the destination",
+                "Ignore the situation and proceed as planned"
+            ],
+            "answer": "Wait for the water levels to go down or find an alternative route",
+            "topic": "decision making"
+        },
+        {
+            "question": "A mother is twice as old as her daughter. If the sum of their ages is 72, how old is the daughter?",
+            "options": ["20", "22", "24", "26"],
+            "answer": "24",
+            "topic": "ages"
+        },
+        {
+            "question": "A man was born in 1995 and died in 2025. How old was he when he died?",
+            "options": ["29", "30", "31", "32"],
+            "answer": "30",
+            "topic": "ages"
+        },
+        {
+            "question": "What comes next in the sequence: Z, W, T, Q, ?",
+            "options": ["M", "N", "L", "O"],
+            "answer": "N",
+            "topic": "sequences"
+        },
+        {
+            "question": "Find the next number in the sequence: 2, 6, 12, 20, 30, ?",
+            "options": ["38", "40", "42", "44"],
+            "answer": "42",
+            "topic": "sequences"
+        },
+        {
+            "question": "What comes next in the sequence: 1, 4, 9, 16, 25, ?",
+            "options": ["30", "32", "36", "40"],
+            "answer": "36",
+            "topic": "sequences"
+        },
+        {
+            "question": "Sun is to day as moon is to?",
+            "options": ["Night", "Star", "Sky", "Light"],
+            "answer": "Night",
+            "topic": "analogies"
+        },
+        {
+            "question": "Wheel is to car as key is to?",
+            "options": ["Door", "Lock", "Handle", "Metal"],
+            "answer": "Lock",
+            "topic": "analogies"
+        },
+        {
+            "question": "Choose the odd one out: Square, Circle, Triangle, Cube",
+            "options": ["Square", "Circle", "Triangle", "Cube"],
+            "answer": "Cube",
+            "topic": "odd one out"
+        },
+        {
+            "question": "Choose the odd one out: Oxygen, Hydrogen, Nitrogen, Steel",
+            "options": ["Oxygen", "Hydrogen", "Nitrogen", "Steel"],
+            "answer": "Steel",
+            "topic": "odd one out"
+        },
+        {
+            "question": "If March 1, 2023, was a Wednesday, what day was March 1, 2024?",
+            "options": ["Thursday", "Friday", "Saturday", "Sunday"],
+            "answer": "Friday",
+            "topic": "calendar"
+        },
+        {
+            "question": "A cyclist travels 8 km north, then 6 km east. How far is he from the starting point?",
+            "options": ["10 km", "12 km", "14 km", "16 km"],
+            "answer": "10 km",
+            "topic": "distance & directions"
+        },
+        {
+            "question": "A company’s profit dropped by 50%. What could be a possible reason?",
+            "options": ["Higher taxes", "Increased revenue", "Fewer competitors", "Strong economy"],
+            "answer": "Higher taxes",
+            "topic": "business & economics"
+        },
+        {
+            "question": "All birds lay eggs. Sparrows are birds. What can be concluded?",
+            "options": ["Sparrows do not lay eggs", "Sparrows lay eggs", "Some birds do not lay eggs", "All birds are sparrows"],
+            "answer": "Sparrows lay eggs",
+            "topic": "logical reasoning"
+        },
+        {
+            "question": "John says, 'My father is the only son of my grandfather.' How is John related to his grandfather?",
+            "options": ["Son", "Brother", "Grandson", "Uncle"],
+            "answer": "Grandson",
+            "topic": "family relationships"
+        },
+        {
+            "question": "What should a driver do if their car's brakes fail while driving?",
+            "options": ["Speed up", "Use the handbrake and steer to safety", "Jump out of the car", "Honk continuously"],
+            "answer": "Use the handbrake and steer to safety",
+            "topic": "decision making"
+        },
+        {
+            "question": "Which number is missing in the sequence: 3, 6, 12, ?, 48?",
+            "options": ["18", "20", "24", "30"],
+            "answer": "24",
+            "topic": "sequences"
+        },
+        {
+            "question": "Book is to read as piano is to?",
+            "options": ["Sing", "Write", "Play", "Dance"],
+            "answer": "Play",
+            "topic": "analogies"
+        },
+        {
+            "question": "Choose the odd one out: Mercury, Venus, Earth, Sun",
+            "options": ["Mercury", "Venus", "Earth", "Sun"],
+            "answer": "Sun",
+            "topic": "odd one out"
+        },
+        {
+            "question": "If December 31, 2020, was a Thursday, what was January 1, 2021?",
+            "options": ["Thursday", "Friday", "Saturday", "Sunday"],
+            "answer": "Friday",
+            "topic": "calendar"
+        },
+        {
+            "question": "A shopkeeper buys a product for $200 and sells it for $250. What is the profit percentage?",
+            "options": ["20%", "25%", "30%", "50%"],
+            "answer": "25%",
+            "topic": "business & economics"
+        },
+        {
+            "question": "A train departs at 10:45 AM and reaches its destination at 3:15 PM. How long was the journey?",
+            "options": ["4.5 hours", "5 hours", "5.5 hours", "6 hours"],
+            "answer": "4.5 hours",
+            "topic": "time & speed"
+        },
+        {
+            "question": "If the cost of 5 pens is $15, what is the cost of 8 pens?",
+            "options": ["$20", "$22", "$24", "$25"],
+            "answer": "$24",
+            "topic": "mathematics"
+        },
+        {
+            "question": "A father is four times as old as his son. In 10 years, he will be twice as old. How old is the son now?",
+            "options": ["5", "10", "15", "20"],
+            "answer": "10",
+            "topic": "ages"
+        },
+        {
+            "question": "Find the missing letter: D, G, J, M, ?",
+            "options": ["O", "P", "Q", "R"],
+            "answer": "P",
+            "topic": "sequences"
+        },
+        {
+            "question": "Which shape has the most sides?",
+            "options": ["Triangle", "Hexagon", "Octagon", "Pentagon"],
+            "answer": "Octagon",
+            "topic": "shapes"
+        },
+        {
+            "question": "If 2x + 3 = 7, what is the value of x?",
+            "options": ["2", "3", "4", "5"],
+            "answer": "2",
+            "topic": "mathematics"
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "options": ["Earth", "Venus", "Mars", "Jupiter"],
+            "answer": "Mars",
+            "topic": "science"
+        },
+        {
+            "question": "Which number is next in the pattern: 5, 10, 20, 40, ?",
+            "options": ["50", "60", "80", "100"],
+            "answer": "80",
+            "topic": "sequences"
+        },
+        
+                {
+                    "question": "In the following paragraph, how many times does the letter 'e' appear? \n\n'The elephant enjoys eating fresh vegetables every evening in the open field.'",
+                    "options": ["7", "8", "9", "10"],
+                    "answer": "9",
+                    "topic": "attention to detail"
+                },
+                {
+                    "question": "How many times does the word 'and' appear in the following sentence? \n\n'I went to the market and bought apples, bananas, and oranges, and then I came back home.'",
+                    "options": ["2", "3", "4", "5"],
+                    "answer": "3",
+                    "topic": "attention to detail"
+                },
+                {
+                    "question": "In the given paragraph, how many times does the letter 'a' appear? \n\n'A cat sat on a mat near a lamp and watched a bat fly across the attic.'",
+                    "options": ["6", "7", "8", "9"],
+                    "answer": "8",
+                    "topic": "attention to detail"
+                },
+                {
+                    "question": "Count how many times the letter 'o' appears in this sentence: \n\n'John owns an old brown dog who loves to roam outdoors.'",
+                    "options": ["5", "6", "7", "8"],
+                    "answer": "6",
+                    "topic": "attention to detail"
+                },
+                {
+                    "question": "In the paragraph below, how many times does the letter 't' appear? \n\n'Three tiny turtles took their time traveling through the thick forest.'",
+                    "options": ["7", "8", "9", "10"],
+                    "answer": "9",
+                    "topic": "attention to detail"
+                },
+                {
+                    "question": "How many times does the word 'the' appear in the following paragraph? \n\n'The quick brown fox jumps over the lazy dog. The dog, however, did not move as the fox ran away.'",
+                    "options": ["3", "4", "5", "6"],
+                    "answer": "4",
+                    "topic": "attention to detail"
+                },
+                {
+                    "question": "In the sentence below, how many times does the letter 's' appear? \n\n'Samantha sells seashells by the seashore on sunny Sundays.'",
+                    "options": ["6", "7", "8", "9"],
+                    "answer": "8",
+                    "topic": "attention to detail"
+                },
+                {
+                    "question": "Count how many times the word 'was' appears in the paragraph: \n\n'It was a sunny day. The sky was clear, and everything was calm and peaceful.'",
+                    "options": ["2", "3", "4", "5"],
+                    "answer": "3",
+                    "topic": "attention to detail"
+                },
+                {
+                    "question": "How many times does the letter 'm' appear in the sentence below? \n\n'Many mammals move mysteriously in the moonlight.'",
+                    "options": ["5", "6", "7", "8"],
+                    "answer": "6",
+                    "topic": "attention to detail"
+                },
+                {
+                    "question": "In the following paragraph, how many times does the word 'is' appear? \n\n'This is a simple test. It is designed to see if attention to detail is important.'",
+                    "options": ["2", "3", "4", "5"],
+                    "answer": "3",
+                    "topic": "attention to detail"
+                },
+                {
+                    "question": "How many words are in this sentence? \n\n'Attention to detail is crucial for accuracy in all tasks.'",
+                    "options": ["7", "8", "9", "10"],
+                    "answer": "9",
+                    "topic": "attention to detail"
+                },
+                {
+                    "question": "How many times does the letter 'r' appear in this sentence? \n\n'Robert runs rapidly around the race track.'",
+                    "options": ["5", "6", "7", "8"],
+                    "answer": "6",
+                    "topic": "attention to detail"
+                },
+                {
+                    "question": "In the following text, how many words contain the letter 'p'? \n\n'People participate in many sports to stay active and fit.'",
+                    "options": ["3", "4", "5", "6"],
+                    "answer": "4",
+                    "topic": "attention to detail"
+                },
+                {
+                    "question": "How many times does the letter 'c' appear in this sentence? \n\n'Clara carefully counted the colorful cupcakes on the counter.'",
+                    "options": ["7", "8", "9", "10"],
+                    "answer": "8",
+                    "topic": "attention to detail"
+                },
+                {
+                    "question": "Count the number of words in this sentence: \n\n'The scientist conducted an experiment in the laboratory.'",
+                    "options": ["7", "8", "9", "10"],
+                    "answer": "8",
+                    "topic": "attention to detail"
+                },
+                {
+                    "question": "In the following sentence, how many times does the letter 'd' appear? \n\n'David decided to drive down the dusty road during dusk.'",
+                    "options": ["5", "6", "7", "8"],
+                    "answer": "6",
+                    "topic": "attention to detail"
+                },
+                {
+                    "question": "How many times does the word 'at' appear in this sentence? \n\n'Look at the cat sitting at the mat at the corner of the room.'",
+                    "options": ["3", "4", "5", "6"],
+                    "answer": "4",
+                    "topic": "attention to detail"
+                },
+                {
+                    "question": "Count the number of vowels (a, e, i, o, u) in this sentence: \n\n'Understanding the importance of detail helps improve accuracy.'",
+                    "options": ["15", "16", "17", "18"],
+                    "answer": "17",
+                    "topic": "attention to detail"
+                },
+                {
+                    "question": "In the paragraph below, how many times does the word 'can' appear? \n\n'You can do anything if you believe you can. Confidence can help you achieve your goals.'",
+                    "options": ["2", "3", "4", "5"],
+                    "answer": "3",
+                    "topic": "attention to detail"
+                },
+                {
+                    "question": "How many times does the letter 'b' appear in the following sentence? \n\n'Bobby bought a big blue balloon before his birthday party.'",
+                    "options": ["5", "6", "7", "8"],
+                    "answer": "6",
+                    "topic": "attention to detail"
+                },
+      
+
+    {
+        "question": "Which of the following words is spelled correctly?",
+        "options": [
+            "Recieve",
+            "Receive",
+            "Recieeve",
+            "Receeve"
+        ],
+        "answer": "Receive",
+        "topic": "attention to detail"
+    },
+    {
+        "question": "What is wrong with this sentence: 'The quick brown fox jump over the lazy dog'?",
+        "options": [
+            "The word 'jump' should be 'jumps'.",
+            "The word 'fox' should be 'foxes'.",
+            "The word 'lazy' is incorrect.",
+            "There is no error."
+        ],
+        "answer": "The word 'jump' should be 'jumps'.",
+        "topic": "attention to detail"
+    },
+    {
+        "question": "A shipment contains 7 red boxes, 5 blue boxes, and 3 green boxes. How many boxes are in total?",
+        "options": [
+            "12",
+            "15",
+            "10",
+            "None of the above"
+        ],
+        "answer": "None of the above",
+        "topic": "attention to detail"
+    },
+    {
+        "question": "Which of these statements is factually correct?",
+        "options": [
+            "February always has 28 days.",
+            "The sun rises in the west.",
+            "There are 50 states in the USA.",
+            "Water boils at 50°C at sea level."
+        ],
+        "answer": "There are 50 states in the USA.",
+        "topic": "attention to detail"
+    },
+    {
+        "question": "Find the missing letter in the sequence: B, D, F, H, __.",
+        "options": [
+            "I",
+            "J",
+            "K",
+            "L"
+        ],
+        "answer": "J",
+        "topic": "attention to detail"
+    },
+    {
+        "question": "Which sentence has proper capitalization and punctuation?",
+        "options": [
+            "i went to the store to buy milk, bread, and eggs.",
+            "I went to the store to buy milk bread, and eggs.",
+            "I went to the store to buy milk, bread, and eggs.",
+            "I Went to the store to buy Milk, Bread, and Eggs."
+        ],
+        "answer": "I went to the store to buy milk, bread, and eggs.",
+        "topic": "attention to detail"
+    },
+    {
+        "question": "In the sentence 'The scientist conducted an experiment to test the hypothesis', what is the correct spelling of the underlined word?",
+        "options": [
+            "hipothesis",
+            "hypothisis",
+            "hypothesis",
+            "hipothesys"
+        ],
+        "answer": "hypothesis",
+        "topic": "attention to detail"
+    },
+    {
+        "question": "A man starts walking at 9:30 AM and reaches his destination at 12:45 PM. How long was his journey?",
+        "options": [
+            "3 hours 25 minutes",
+            "3 hours 15 minutes",
+            "3 hours 30 minutes",
+            "3 hours 45 minutes"
+        ],
+        "answer": "3 hours 15 minutes",
+        "topic": "attention to detail"
+    },
+    {
+        "question": "Which number is missing from the pattern: 2, 4, 8, __, 32?",
+        "options": [
+            "12",
+            "14",
+            "16",
+            "18"
+        ],
+        "answer": "16",
+        "topic": "attention to detail"
+    },
+    {
+        "question": "The colors of the Olympic rings are blue, yellow, black, green, and ___.",
+        "options": [
+            "Red",
+            "White",
+            "Orange",
+            "Purple"
+        ],
+        "answer": "Red",
+        "topic": "attention to detail"
+    },
+        {
+            "question": "I’d rather she _______ with us to the event.",
+            "options": ["stays", "stayed", "stay", "staying"],
+            "answer": "stayed",
+            "topic": "Sentence Structure"
+        },
+        {
+            "question": "She would have won the race _______ her injury.",
+            "options": ["because of", "but for", "due to", "unless"],
+            "answer": "but for",
+            "topic": "Conditionals"
+        },
+        {
+            "question": "I wish I _______ the truth earlier.",
+            "options": ["know", "had known", "knew", "knows"],
+            "answer": "had known",
+            "topic": "Tenses"
+        },
+        {
+            "question": "By the time the show starts, I _______ the tickets.",
+            "options": ["will collect", "will have collected", "collected", "have collected"],
+            "answer": "will have collected",
+            "topic": "Future Perfect Tense"
+        },
+        {
+            "question": "Little _______ that her actions would have such consequences.",
+            "options": ["I know", "I did know", "did I know", "had I known"],
+            "answer": "did I know",
+            "topic": "Inversions"
+        },
+        {
+            "question": "Hardly ever _______ to crowded places.",
+            "options": ["does he go", "he goes", "he does go", "he going"],
+            "answer": "does he go",
+            "topic": "Inversions"
+        },
+        {
+            "question": "If only I _______ more effort, I could have won the competition.",
+            "options": ["put", "putting", "had put", "have put"],
+            "answer": "had put",
+            "topic": "Conditionals"
+        },
+        {
+            "question": "I wish I _______ more time to finish the project.",
+            "options": ["have", "had", "will have", "having"],
+            "answer": "had",
+            "topic": "Wishes & Hypotheticals"
+        },
+        {
+            "question": "Rarely _______ a team so determined to succeed.",
+            "options": ["had I seen", "have I seen", "I saw", "I had seen"],
+            "answer": "have I seen",
+            "topic": "Inversions"
+        },
+        {
+            "question": "If she _______ earlier, she might have caught the train.",
+            "options": ["arrives", "had arrived", "arrived", "has arrived"],
+            "answer": "had arrived",
+            "topic": "Conditionals"
+        },
+        {
+            "question": "By the time the train arrived, we _______ our dinner.",
+            "options": ["will finish", "will have finished", "had finished", "finish"],
+            "answer": "had finished",
+            "topic": "Past Perfect Tense"
+        },
+        {
+            "question": "By the time we got to the station, the train _______ .",
+            "options": ["will leave", "will have left", "had left", "leaves"],
+            "answer": "had left",
+            "topic": "Past Perfect Tense"
+        },
+        {
+            "question": "I’d rather you _______ earlier next time.",
+            "options": ["arrive", "arrived", "arriving", "arrives"],
+            "answer": "arrived",
+            "topic": "Sentence Structure"
+        },
+        {
+            "question": "The lawyer demanded that the evidence _______ rechecked.",
+            "options": ["is", "be", "was", "being"],
+            "answer": "be",
+            "topic": "Subjunctive Mood"
+        },
+        {
+            "question": "Given her background in finance, she was chosen to lead the project.",
+            "options": ["except", "despite", "given", "unless"],
+            "answer": "given",
+            "topic": "Prepositions & Conjunctions"
+        },
+        {
+            "question": "No sooner _______ the bell rung than the students rushed out.",
+            "options": ["did", "does", "had", "has"],
+            "answer": "had",
+            "topic": "Inversions"
+          },
+          {
+            "question": "Scarcely _______ the movie begun when the power went out.",
+            "options": ["did", "had", "has", "was"],
+            "answer": "had",
+            "topic": "Inversions"
+          },
+          {
+            "question": "If I _______ you, I would take that opportunity.",
+            "options": ["am", "were", "was", "be"],
+            "answer": "were",
+            "topic": "Conditionals"
+          },
+          {
+            "question": "Not only _______ a great writer, but he was also an inspiring teacher.",
+            "options": ["he was", "was he", "he is", "is he"],
+            "answer": "was he",
+            "topic": "Inversions"
+          },
+          {
+            "question": "By next month, she _______ in the company for five years.",
+            "options": ["will work", "will have worked", "has worked", "worked"],
+            "answer": "will have worked",
+            "topic": "Future Perfect Tense"
+          },
+          {
+            "question": "We insisted that he _______ the report before leaving.",
+            "options": ["finishes", "finished", "finish", "will finish"],
+            "answer": "finish",
+            "topic": "Subjunctive Mood"
+          },
+          {
+            "question": "If she _______ harder, she could have won the competition.",
+            "options": ["tries", "had tried", "tried", "try"],
+            "answer": "had tried",
+            "topic": "Conditionals"
+          },
+          {
+            "question": "No sooner _______ the match started than it began to rain.",
+            "options": ["had", "did", "has", "was"],
+            "answer": "had",
+            "topic": "Inversions"
+          },
+          {
+            "question": "I regret _______ that mistake in my report.",
+            "options": ["to make", "making", "made", "make"],
+            "answer": "making",
+            "topic": "Gerunds & Infinitives"
+          },
+          {
+            "question": "Despite _______ hard, he failed the exam.",
+            "options": ["work", "working", "worked", "to work"],
+            "answer": "working",
+            "topic": "Prepositions & Gerunds"
+          },
+          {
+            "question": "It's time we _______ the truth.",
+            "options": ["knows", "knew", "know", "knowing"],
+            "answer": "knew",
+            "topic": "Wishes & Hypotheticals"
+          },
+          {
+            "question": "Neither of the answers _______ correct.",
+            "options": ["is", "are", "were", "be"],
+            "answer": "is",
+            "topic": "Subject-Verb Agreement"
+          },
+          {
+            "question": "If I _______ rich, I would travel the world.",
+            "options": ["am", "was", "were", "be"],
+            "answer": "were",
+            "topic": "Conditionals"
+          },
+          {
+            "question": "She’s the woman _______ I was telling you about.",
+            "options": ["who", "whose", "whom", "which"],
+            "answer": "whom",
+            "topic": "Relative Clauses"
+          },
+          {
+            "question": "They managed to finish the project _______ the lack of resources.",
+            "options": ["despite", "although", "because", "due to"],
+            "answer": "despite",
+            "topic": "Prepositions & Conjunctions"
+          },
+          {
+            "question": "She is used to _______ up early.",
+            "options": ["wake", "waking", "woke", "wakes"],
+            "answer": "waking",
+            "topic": "Gerunds & Infinitives"
+          },
+          {
+            "question": "The more you practice, the _______ you get.",
+            "options": ["better", "best", "good", "more good"],
+            "answer": "better",
+            "topic": "Comparatives & Superlatives"
+          },
+          {
+            "question": "The committee, along with the manager, _______ making a decision.",
+            "options": ["are", "is", "were", "be"],
+            "answer": "is",
+            "topic": "Subject-Verb Agreement"
+          },
+          {
+            "question": "Neither the teacher nor the students _______ aware of the changes.",
+            "options": ["is", "are", "was", "were"],
+            "answer": "are",
+            "topic": "Subject-Verb Agreement"
+          },
+          {
+            "question": "He is the only one who _______ how to fix it.",
+            "options": ["know", "knows", "knew", "known"],
+            "answer": "knows",
+            "topic": "Subject-Verb Agreement"
+          },
+          {
+            "question": "It’s high time they _______ the rules.",
+            "options": ["change", "changed", "changing", "changes"],
+            "answer": "changed",
+            "topic": "Wishes & Hypotheticals"
+          },
+          {
+            "question": "They insisted on _______ the documents immediately.",
+            "options": ["receive", "receiving", "received", "to receive"],
+            "answer": "receiving",
+            "topic": "Gerunds & Infinitives"
+          },
+          {
+            "question": "She speaks English as though she _______ a native speaker.",
+            "options": ["is", "were", "was", "be"],
+            "answer": "were",
+            "topic": "Wishes & Hypotheticals"
+          },
+          {
+            "question": "The teacher recommended that he _______ more.",
+            "options": ["studies", "study", "studying", "studied"],
+            "answer": "study",
+            "topic": "Subjunctive Mood"
+          },
+          {
+            "question": "He acts as if he _______ everything.",
+            "options": ["know", "knows", "knew", "known"],
+            "answer": "knew",
+            "topic": "Wishes & Hypotheticals"
+          },
+          {
+            "question": "Neither of them _______ coming to the party.",
+            "options": ["is", "are", "were", "be"],
+            "answer": "is",
+            "topic": "Subject-Verb Agreement"
+          },
+          {
+            "question": "Would you mind _______ the window?",
+            "options": ["open", "opening", "opened", "to open"],
+            "answer": "opening",
+            "topic": "Gerunds & Infinitives"
+          },
+          {
+            "question": "By the time we arrived, the meeting _______.",
+            "options": ["had started", "started", "starts", "was starting"],
+            "answer": "had started",
+            "topic": "Past Perfect Tense"
+          },
+          {
+            "question": "The book, along with the notes, _______ on the table.",
+            "options": ["is", "are", "were", "be"],
+            "answer": "is",
+            "topic": "Subject-Verb Agreement"
+          },
+          {
+            "question": "It is essential that he _______ on time.",
+            "options": ["arrive", "arrives", "arrived", "arriving"],
+            "answer": "arrive",
+            "topic": "Subjunctive Mood"
+          }
+      
+]
+}
+
+

@@ -1,0 +1,168 @@
+{
+        "questions": [
+          {
+            "question": "Count how many times the letter 'o' appears in this sentence:\n\n'John owns an old brown dog who loves to roam outdoors.'",
+            "options": ["5", "6", "7", "8"],
+            "answer": "6",
+            "topic": "attention to detail",
+            "subject": "attention"
+          },
+          {
+            "question": "Which number is missing in this sequence?\n\n2, 4, 6, 8, __, 12, 14",
+            "options": ["9", "10", "11", "12"],
+            "answer": "10",
+            "topic": "attention to detail",
+            "subject": "attention"
+          },
+          {
+            "question": "How many words in this sentence have exactly three letters?\n\n'The cat ran fast and hid under the bed.'",
+            "options": ["3", "4", "5", "6"],
+            "answer": "4",
+            "topic": "attention to detail",
+            "subject": "attention"
+          },
+          {
+            "question": "Which word is spelled correctly?",
+            "options": ["Recieve", "Definately", "Accommodate", "Seperate"],
+            "answer": "Accommodate",
+            "topic": "attention to detail",
+            "subject": "attention"
+          },
+          {
+            "question": "Find the number that is different from the rest:\n\n14, 28, 42, 56, 70, 85",
+            "options": ["28", "42", "56", "85"],
+            "answer": "85",
+            "topic": "attention to detail",
+            "subject": "attention"
+          },
+          {
+            "question": "How many times does the letter 'e' appear in this sentence?\n\n'Elephants never forget, but some humans do.'",
+            "options": ["4", "5", "6", "7"],
+            "answer": "6",
+            "topic": "attention to detail",
+            "subject": "attention"
+          },
+          {
+            "question": "Which sentence is grammatically correct?",
+            "options": [
+              "The dog chased it's tail.",
+              "She could of won the race.",
+              "They're going to the park later.",
+              "He dont like pizza."
+            ],
+            "answer": "They're going to the park later.",
+            "topic": "attention to detail",
+            "subject": "attention"
+          },
+          {
+            "question": "Which of these numbers is NOT a prime number?",
+            "options": ["17", "23", "27", "31"],
+            "answer": "27",
+            "topic": "attention to detail",
+            "subject": "attention"
+          },
+          {
+            "question": "Which word does NOT belong in the following group?\n\nApple, Orange, Banana, Tomato, Carrot",
+            "options": ["Apple", "Orange", "Tomato", "Carrot"],
+            "answer": "Carrot",
+            "topic": "attention to detail",
+            "subject": "attention"
+          },
+          {
+            "question": "Which word appears twice in the following sentence?\n\n'The quick brown fox jumps over the lazy dog, but the dog is not amused.'",
+            "options": ["fox", "dog", "lazy", "the"],
+            "answer": "dog",
+            "topic": "attention to detail",
+            "subject": "attention"
+          },
+        
+          {
+            "question": "Which number is missing in this pattern?\n\n5, 10, 20, __, 80, 160",
+            "options": ["25", "30", "40", "50"],
+            "answer": "40",
+            "topic": "attention to detail",
+            "subject": "attention"
+          },
+          {
+            "question": "How many vowels are in the word 'Mississippi'?",
+            "options": ["3", "4", "5", "6"],
+            "answer": "4",
+            "topic": "attention to detail",
+            "subject": "attention"
+          },
+          {
+            "question": "Which sentence has correct punctuation?",
+            "options": [
+              "He asked, 'Where is my book?",
+              "He asked 'Where is my book'?",
+              "He asked where is my book?",
+              "He asked 'Where is my book?"
+            ],
+            "answer": "He asked, 'Where is my book?'",
+            "topic": "attention to detail",
+            "subject": "attention"
+          },
+          {
+            "question": "Which of these numbers is even?",
+            "options": ["17", "21", "34", "55"],
+            "answer": "34",
+            "topic": "attention to detail",
+            "subject": "attention"
+          },
+          {
+            "question": "Identify the missing letter in the sequence:\n\nA, C, E, G, __, K",
+            "options": ["I", "J", "L", "H"],
+            "answer": "I",
+            "topic": "attention to detail",
+            "subject": "attention"
+          },
+          {
+            "question": "Which sentence uses the correct homophone?",
+            "options": [
+              "They're going to the store later.",
+              "There house is big and blue.",
+              "Their is no way to know for sure.",
+              "I like the way there cooking smells."
+            ],
+            "answer": "They're going to the store later.",
+            "topic": "attention to detail",
+            "subject": "attention"
+          },
+          {
+            "question": "Which word is spelled incorrectly?",
+            "options": ["Definitely", "Recomend", "Separate", "Occurred"],
+            "answer": "Recomend",
+            "topic": "attention to detail",
+            "subject": "attention"
+          },
+          {
+            "question": "Which shape does NOT belong in this group?\n\nCircle, Square, Triangle, Rectangle, Cube",
+            "options": ["Circle", "Square", "Triangle", "Cube"],
+            "answer": "Cube",
+            "topic": "attention to detail",
+            "subject": "attention"
+          },
+          {
+            "question": "Which sentence has the correct subject-verb agreement?",
+            "options": [
+              "The dogs runs in the park.",
+              "She go to school every day.",
+              "They is my best friends.",
+              "He writes in his journal daily."
+            ],
+            "answer": "He writes in his journal daily.",
+            "topic": "attention to detail",
+            "subject": "attention"
+          },
+          {
+            "question": "How many times does the letter 'a' appear in this sentence?\n\n'Amazing animals are always around us.'",
+            "options": ["4", "5", "6", "7"],
+            "answer": "5",
+            "topic": "attention to detail",
+            "subject": "attention"
+          }
+        ]
+    }
+      
+ 
+  

@@ -1,0 +1,400 @@
+{
+    "questions": [
+        {
+            "question": "A father is twice as old as his son. If the sum of their ages is 72, how old is the son?",
+            "options": ["24", "26", "28", "30"],
+            "answer": "24",
+            "topic": "ages",
+            "subject": "math",
+            "level": "medium"
+        },
+        {
+            "question": "A person’s present age is two-fifths of the age of his mother. If the mother is 35 years old, what is his age?",
+            "options": ["12", "14", "16", "18"],
+            "answer": "14",
+            "topic": "ages",
+            "subject": "math",
+            "level": "medium"
+        },
+        {
+            "question": "The sum of the present ages of a father and his son is 60 years. Six years ago, the father’s age was five times the son’s age. Find the son's age now.",
+            "options": ["12", "10", "15", "14"],
+            "answer": "12",
+            "topic": "ages",
+            "subject": "math",
+            "level": "medium"
+        },
+        {
+            "question": "A man is 4 times as old as his son. After 5 years, he will be three times as old. Find the son's current age.",
+            "options": ["5", "10", "15", "20"],
+            "answer": "5",
+            "topic": "ages",
+            "subject": "math",
+            "level": "medium"
+        },
+        {
+            "question": "The difference between the ages of two sisters is 6 years. If the sum of their ages is 30, what is the age of the younger sister?",
+            "options": ["12", "13", "14", "15"],
+            "answer": "12",
+            "topic": "ages",
+            "subject": "math",
+            "level": "medium"
+        },
+        {
+            "question": "Find the next number in the sequence: 3, 6, 12, 24, ?",
+            "options": ["36", "48", "50", "60"],
+            "answer": "48",
+            "topic": "sequences",
+            "subject": "math",
+            "level": "medium"
+        },
+        {
+            "question": "What comes next in the series? 2, 5, 10, 17, 26, ?",
+            "options": ["36", "37", "38", "39"],
+            "answer": "37",
+            "topic": "sequences",
+            "subject": "math",
+            "level": "medium"
+        },
+        {
+            "question": "Identify the missing number in the pattern: 1, 4, 9, 16, ?, 36",
+            "options": ["20", "24", "25", "30"],
+            "answer": "25",
+            "topic": "sequences",
+            "subject": "math",
+            "level": "medium"
+        },
+        {
+            "question": "Find the missing term in the sequence: 100, 80, 60, ?, 20",
+            "options": ["30", "40", "35", "45"],
+            "answer": "40",
+            "topic": "sequences",
+            "subject": "math",
+            "level": "medium"
+        },
+        {
+            "question": "Which term comes next in the pattern? 1, 3, 6, 10, 15, ?",
+            "options": ["20", "21", "22", "23"],
+            "answer": "21",
+            "topic": "sequences",
+            "subject": "math",
+            "level": "medium"
+        },
+        {
+            "question": "Find the odd one out: Car, Truck, Bike, Apple",
+            "options": ["Car", "Truck", "Bike", "Apple"],
+            "answer": "Apple",
+            "topic": "analogies",
+            "subject": "reasoning",
+            "level": "medium"
+        },
+        {
+            "question": "Dog is to Puppy as Cat is to?",
+            "options": ["Kitten", "Cub", "Calf", "Fawn"],
+            "answer": "Kitten",
+            "topic": "analogies",
+            "subject": "reasoning",
+            "level": "medium"
+        },
+        {
+            "question": "Which word does not belong in the group? Apple, Banana, Orange, Carrot",
+            "options": ["Apple", "Banana", "Orange", "Carrot"],
+            "answer": "Carrot",
+            "topic": "analogies",
+            "subject": "reasoning",
+            "level": "medium"
+        },
+        {
+            "question": "Book is to Reading as Fork is to?",
+            "options": ["Writing", "Drawing", "Eating", "Cooking"],
+            "answer": "Eating",
+            "topic": "analogies",
+            "subject": "reasoning",
+            "level": "medium"
+        },
+        {
+            "question": "Clock is to Time as Thermometer is to?",
+            "options": ["Weather", "Temperature", "Pressure", "Speed"],
+            "answer": "Temperature",
+            "topic": "analogies",
+            "subject": "reasoning",
+            "level": "medium"
+        },
+        {
+                    "question": "Pointing to a girl, John said, 'She is the daughter of my grandfather’s only son.' How is the girl related to John?",
+                    "options": ["Sister", "Cousin", "Aunt", "Mother"],
+                    "answer": "Sister",
+                    "topic": "family relationships",
+                    "subject": "reasoning",
+                    "level": "medium"
+                },
+                {
+                    "question": "If Ram's father is the brother of Shyam's mother, how is Ram related to Shyam?",
+                    "options": ["Cousin", "Brother", "Nephew", "Uncle"],
+                    "answer": "Cousin",
+                    "topic": "family relationships",
+                    "subject": "reasoning",
+                    "level": "medium"
+                },
+                {
+                    "question": "Pointing to a man, Sarah says, 'He is the only son of my mother's father.' How is the man related to Sarah?",
+                    "options": ["Uncle", "Father", "Brother", "Cousin"],
+                    "answer": "Father",
+                    "topic": "family relationships",
+                    "subject": "reasoning",
+                    "level": "medium"
+                },
+                {
+                    "question": "If A is the brother of B, B is the sister of C, and C is the father of D, how is A related to D?",
+                    "options": ["Uncle", "Father", "Brother", "Cousin"],
+                    "answer": "Uncle",
+                    "topic": "family relationships",
+                    "subject": "reasoning",
+                    "level": "medium"
+                },
+                {
+                    "question": "David introduces Rachel as the daughter of the only son of his father’s wife. How is Rachel related to David?",
+                    "options": ["Daughter", "Sister", "Mother", "Cousin"],
+                    "answer": "Daughter",
+                    "topic": "family relationships",
+                    "subject": "reasoning",
+                    "level": "medium"
+                },
+                {
+                    "question": "Which one does not belong in the group? Square, Rectangle, Triangle, Circle",
+                    "options": ["Square", "Rectangle", "Triangle", "Circle"],
+                    "answer": "Circle",
+                    "topic": "logical reasoning",
+                    "subject": "reasoning",
+                    "level": "medium"
+                },
+                {
+                    "question": "If all Roses are Flowers and some Flowers fade quickly, which of the following is true?",
+                    "options": [
+                        "All Flowers are Roses",
+                        "Some Roses fade quickly",
+                        "All Flowers fade quickly",
+                        "Some Flowers are not Roses"
+                    ],
+                    "answer": "Some Flowers are not Roses",
+                    "topic": "logical reasoning",
+                    "subject": "reasoning",
+                    "level": "medium"
+                },
+                {
+                    "question": "Which number does not belong in the series? 2, 6, 12, 20, 30, 42, 56",
+                    "options": ["6", "12", "30", "56"],
+                    "answer": "30",
+                    "topic": "logical reasoning",
+                    "subject": "math",
+                    "level": "medium"
+                },
+                {
+                    "question": "All cats are dogs. No dog is an elephant. Which conclusion follows?",
+                    "options": [
+                        "All cats are elephants",
+                        "Some cats are not elephants",
+                        "No cat is an elephant",
+                        "All elephants are cats"
+                    ],
+                    "answer": "No cat is an elephant",
+                    "topic": "logical reasoning",
+                    "subject": "reasoning",
+                    "level": "medium"
+                },
+                {
+                    "question": "If A is taller than B, B is taller than C, and C is taller than D, who is the shortest?",
+                    "options": ["A", "B", "C", "D"],
+                    "answer": "D",
+                    "topic": "logical reasoning",
+                    "subject": "reasoning",
+                    "level": "medium"
+                },
+                {
+                    "question": "Find the missing number in the series: 2, 4, 8, 16, ?, 64",
+                    "options": ["24", "32", "48", "56"],
+                    "answer": "32",
+                    "topic": "number series",
+                    "subject": "math",
+                    "level": "medium"
+                },
+                {
+                    "question": "What comes next in the sequence? 7, 14, 28, 56, ?",
+                    "options": ["84", "96", "100", "112"],
+                    "answer": "112",
+                    "topic": "number series",
+                    "subject": "math",
+                    "level": "medium"
+                },
+                {
+                    "question": "Find the missing term: 1, 4, 9, 16, 25, ?",
+                    "options": ["30", "35", "36", "40"],
+                    "answer": "36",
+                    "topic": "number series",
+                    "subject": "math",
+                    "level": "medium"
+                },
+                {
+                    "question": "Identify the missing number: 5, 10, 20, 40, ?",
+                    "options": ["50", "60", "80", "100"],
+                    "answer": "80",
+                    "topic": "number series",
+                    "subject": "math",
+                    "level": "medium"
+                },
+                {
+                    "question": "Find the missing term: 3, 6, 12, 24, ?, 96",
+                    "options": ["36", "42", "48", "60"],
+                    "answer": "48",
+                    "topic": "number series",
+                    "subject": "math",
+                    "level": "medium"
+                },
+                {
+                    "question": "A student scored 80 marks in a test. If this represents 40% of the total marks, what is the full mark of the test?",
+                    "options": ["160", "180", "200", "220"],
+                    "answer": "200",
+                    "topic": "percentage calculations",
+                    "subject": "math",
+                    "level": "medium"
+                },
+                {
+                    "question": "If a product originally priced at $500 is on sale for 20% off, what is the sale price?",
+                    "options": ["$350", "$375", "$400", "$425"],
+                    "answer": "$400",
+                    "topic": "percentage calculations",
+                    "subject": "math",
+                    "level": "medium"
+                },
+                {
+                    "question": "A man spends 25% of his income on rent. If his monthly income is $4000, how much does he spend on rent?",
+                    "options": ["$800", "$900", "$1000", "$1200"],
+                    "answer": "$1000",
+                    "topic": "percentage calculations",
+                    "subject": "math",
+                    "level": "medium"
+                },
+                {
+                    "question": "If a quantity increases from 50 to 65, what is the percentage increase?",
+                    "options": ["20%", "25%", "30%", "35%"],
+                    "answer": "30%",
+                    "topic": "percentage calculations",
+                    "subject": "math",
+                    "level": "medium"
+                },
+                {
+                    "question": "A shopkeeper gives a 10% discount on an item priced at $150. What is the final price?",
+                    "options": ["$130", "$135", "$140", "$145"],
+                    "answer": "$135",
+                    "topic": "percentage calculations",
+                    "subject": "math",
+                    "level": "medium"
+                },
+                {
+                    "question": "If you have to choose between two job offers, one with a higher salary but longer hours, and another with a lower salary but better work-life balance, what should you consider?",
+                    "options": [
+                        "Salary only",
+                        "Work-life balance only",
+                        "Both salary and work-life balance",
+                        "Ignore both and take the first offer"
+                    ],
+                    "answer": "Both salary and work-life balance",
+                    "topic": "decision making",
+                    "subject": "reasoning",
+                    "level": "medium"
+                },
+                {
+                    "question": "A company has to lay off employees due to financial losses. How should they proceed?",
+                    "options": [
+                        "Fire the lowest-paid employees",
+                        "Select employees randomly",
+                        "Evaluate performance and company needs",
+                        "Lay off employees with the shortest tenure"
+                    ],
+                    "answer": "Evaluate performance and company needs",
+                    "topic": "decision making",
+                    "subject": "reasoning",
+                    "level": "medium"
+                },
+                {
+                    "question": "If a student is struggling in a subject, what is the best course of action?",
+                    "options": [
+                        "Ignore the subject",
+                        "Seek help from a tutor or teacher",
+                        "Drop the subject",
+                        "Blame the teacher"
+                    ],
+                    "answer": "Seek help from a tutor or teacher",
+                    "topic": "decision making",
+                    "subject": "reasoning",
+                    "level": "medium"
+                },
+                {
+                    "question": "If you find a lost wallet on the street, what should you do?",
+                    "options": [
+                        "Take the money and leave the wallet",
+                        "Ignore it and walk away",
+                        "Try to return it to the owner or authorities",
+                        "Keep it for yourself"
+                    ],
+                    "answer": "Try to return it to the owner or authorities",
+                    "topic": "decision making",
+                    "subject": "reasoning",
+                    "level": "medium"
+                },
+                {
+                    "question": "You have two job offers: one with a higher salary but more stress, and another with lower pay but better job satisfaction. How should you decide?",
+                    "options": [
+                        "Choose the higher salary",
+                        "Choose the lower salary",
+                        "Consider both salary and job satisfaction",
+                        "Quit both and stay unemployed"
+                    ],
+                    "answer": "Consider both salary and job satisfaction",
+                    "topic": "decision making",
+                    "subject": "reasoning",
+                    "level": "medium"
+                },
+                {
+                    "question": "A person walks 5 km north, then 3 km east. How far is he from the starting point?",
+                    "options": ["5 km", "6 km", "7 km", "8 km"],
+                    "answer": "6 km",
+                    "topic": "distance & directions",
+                    "subject": "math",
+                    "level": "medium"
+                },
+                {
+                    "question": "If a man walks 10 km west and then 10 km north, what is his displacement?",
+                    "options": ["10 km", "14.1 km", "20 km", "15 km"],
+                    "answer": "14.1 km",
+                    "topic": "distance & directions",
+                    "subject": "math",
+                    "level": "medium"
+                },
+                {
+                    "question": "A person moves 4 km east, then 3 km south. What is the shortest distance to the starting point?",
+                    "options": ["3 km", "4 km", "5 km", "7 km"],
+                    "answer": "5 km",
+                    "topic": "distance & directions",
+                    "subject": "math",
+                    "level": "medium"
+                },
+                {
+                    "question": "A cyclist rides 6 km north, 8 km east, and 6 km south. How far is he from the starting point?",
+                    "options": ["6 km", "8 km", "10 km", "12 km"],
+                    "answer": "8 km",
+                    "topic": "distance & directions",
+                    "subject": "math",
+                    "level": "medium"
+                },
+                {
+                    "question": "A car moves 12 km north, then 5 km west. What is the straight-line distance from the start?",
+                    "options": ["5 km", "10 km", "13 km", "17 km"],
+                    "answer": "13 km",
+                    "topic": "distance & directions",
+                    "subject": "math",
+                    "level": "medium"
+                }
+            ]
+        }
+        

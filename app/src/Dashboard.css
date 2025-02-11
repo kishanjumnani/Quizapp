@@ -1,0 +1,68 @@
+/* Dashboard container */
+.dashboard-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #1e1e1e;
+    color: white;
+    text-align: center;
+  }
+  
+  /* Dashboard title */
+  .dashboard-container h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  /* Button group */
+  .button-group {
+    display: flex;
+    gap: 20px;
+  }
+  
+  /* Dashboard buttons */
+  .btn {
+    padding: 12px 24px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+  }
+  
+  /* Individual button styles */
+  .btn-leaderboard {
+    background-color: #3498db;
+    color: white;
+  }
+  
+  .btn-responses {
+    background-color: #2ecc71;
+    color: white;
+  }
+  
+  .btn-result {
+    background-color: #e74c3c;
+    color: white;
+  }
+  
+  /* Hover effects */
+  .btn:hover {
+    opacity: 0.8;
+    transform: scale(1.05);
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 600px) {
+    .button-group {
+      flex-direction: column;
+      gap: 15px;
+    }
+  
+    .btn {
+      width: 80%;
+    }
+  }
+  

@@ -1,0 +1,1143 @@
+
+{
+    "questions": [
+      {
+        "question": "A woman is 5 years older than her brother. If the sum of their ages is 54, how old are they now?",
+        "options": [
+            "24 and 30",
+            "20 and 26",
+            "18 and 24",
+            "28 and 34"
+        ],
+        "answer": "24 and 30",
+        "topic": "ages"
+    },
+    {
+        "question": "A father is 30 years older than his son. The sum of their ages is 70. How old is the son?",
+        "options": [
+            "40",
+            "30",
+            "35",
+            "25"
+        ],
+        "answer": "40",
+        "topic": "ages"
+    },
+    {
+        "question": "What will come next in the series: A, C, E, G, ?, K",
+        "options": [
+            "H",
+            "I",
+            "J",
+            "L"
+        ],
+        "answer": "I",
+        "topic": "alphabetical series"
+    },
+    {
+        "question": "Find the missing letter in the series: B, D, F, ?, J",
+        "options": [
+            "H",
+            "G",
+            "I",
+            "K"
+        ],
+        "answer": "H",
+        "topic": "alphabetical series"
+    },
+    {
+        "question": "If the English alphabet is written in reverse, what will be the 5th letter to the right of Z?",
+        "options": [
+            "V",
+            "U",
+            "T",
+            "S"
+        ],
+        "answer": "V",
+        "topic": "direction question"
+    },
+    {
+        "question": "Ravi walks 10m north, then turns right and walks 5m. Then he turns left and walks 10m. Which direction is he facing?",
+        "options": [
+            "North",
+            "South",
+            "East",
+            "West"
+        ],
+        "answer": "North",
+        "topic": "direction question"
+    },
+    {
+        "question": "Pen is to Paper as Brush is to?",
+        "options": [
+            "Canvas",
+            "Wood",
+            "Color",
+            "Ink"
+        ],
+        "answer": "Canvas",
+        "topic": "analogy"
+    },
+    {
+        "question": "Fish is to Water as Bird is to?",
+        "options": [
+            "Sky",
+            "Nest",
+            "Tree",
+            "Air"
+        ],
+        "answer": "Air",
+        "topic": "analogy"
+    },
+    {
+        "question": "If March 1st is a Monday, what day will March 31st be?",
+        "options": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "answer": "Wednesday",
+        "topic": "calendar"
+    },
+    {
+        "question": "What is the day on 15th August 1947?",
+        "options": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Friday"
+        ],
+        "answer": "Friday",
+        "topic": "calendar"
+    },
+    {
+        "question": "All cats are mammals. Which of the following is true?",
+        "options": [
+            "All mammals are cats",
+            "Some mammals are cats",
+            "No mammals are cats",
+            "Cats are not mammals"
+        ],
+        "answer": "Some mammals are cats",
+        "topic": "logical reasoning"
+    },
+    {
+        "question": "Some dogs are pets. All pets are friendly. What conclusion can be drawn?",
+        "options": [
+            "All dogs are friendly",
+            "Some dogs are friendly",
+            "No dogs are friendly",
+            "None"
+        ],
+        "answer": "Some dogs are friendly",
+        "topic": "logical reasoning"
+    },
+    {
+        "question": "Find the odd one out: Apple, Banana, Carrot, Mango",
+        "options": [
+            "Apple",
+            "Banana",
+            "Carrot",
+            "Mango"
+        ],
+        "answer": "Carrot",
+        "topic": "odd one out"
+    },
+    {
+        "question": "Find the odd one out: Square, Circle, Triangle, Cylinder",
+        "options": [
+            "Square",
+            "Circle",
+            "Triangle",
+            "Cylinder"
+        ],
+        "answer": "Cylinder",
+        "topic": "odd one out"
+    },
+    {
+        "question": "Ravi is 5th from the left and 7th from the right in a row. How many students are there in the row?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "11",
+        "topic": "position in row"
+    },
+    {
+        "question": "Shyam is 8th from the left and 12th from the right in a row. How many students are there?",
+        "options": [
+            "18",
+            "19",
+            "20",
+            "21"
+        ],
+        "answer": "19",
+        "topic": "position in row"
+    },
+    {
+        "question": "A shopkeeper gives a 10% discount on a \u20b9500 item. What is the final price?",
+        "options": [
+            "\u20b9450",
+            "\u20b9460",
+            "\u20b9470",
+            "\u20b9480"
+        ],
+        "answer": "\u20b9450",
+        "topic": "percentage"
+    },
+    {
+        "question": "If a student scores 40 out of 50 in a test, what is the percentage score?",
+        "options": [
+            "70%",
+            "75%",
+            "80%",
+            "85%"
+        ],
+        "answer": "80%",
+        "topic": "percentage"
+    },
+    {
+        "question": "Find the missing number in the series: 2, 4, 8, 16, ?, 64",
+        "options": [
+            "20",
+            "24",
+            "32",
+            "40"
+        ],
+        "answer": "32",
+        "topic": "numerical series"
+    },
+    {
+        "question": "What number comes next: 5, 10, 20, 40, ?",
+        "options": [
+            "50",
+            "60",
+            "80",
+            "100"
+        ],
+        "answer": "80",
+        "topic": "numerical series"
+    },
+    {
+        "question": "A is the father of B, but B is not A\u2019s son. Who is B?",
+        "options": [
+            "Daughter",
+            "Brother",
+            "Cousin",
+            "Mother"
+        ],
+        "answer": "Daughter",
+        "topic": "blood relation"
+    },
+    {
+        "question": "If Ram is the brother of Shyam and Shyam is the father of Ravi, how is Ram related to Ravi?",
+        "options": [
+            "Father",
+            "Uncle",
+            "Grandfather",
+            "Brother"
+        ],
+        "answer": "Uncle",
+        "topic": "blood relation"
+    },
+    {
+        "question": "What would you do if you saw a fire in a building?",
+        "options": [
+            "Call the fire department",
+            "Ignore it",
+            "Run away",
+            "Throw water"
+        ],
+        "answer": "Call the fire department",
+        "topic": "cause and effect"
+    },
+    {
+        "question": "What should you do if you find a lost child in a public place?",
+        "options": [
+            "Leave them alone",
+            "Take them home",
+            "Inform security",
+            "Buy them a toy"
+        ],
+        "answer": "Inform security",
+        "topic": "cause and effect"
+    },
+    {
+        "question": "The sum of a father and son\u2019s age is 60 years. If the father is 40, how old is the son?",
+        "options": [
+            "15",
+            "20",
+            "25",
+            "30"
+        ],
+        "answer": "20",
+        "topic": "ages"
+    },
+    {
+        "question": "A mother is twice as old as her daughter. If the daughter is 15, how old is the mother?",
+        "options": [
+            "30",
+            "35",
+            "40",
+            "45"
+        ],
+        "answer": "30",
+        "topic": "ages"
+    },
+    {
+        "question": "What comes next in the series: D, G, J, M, ?",
+        "options": [
+            "N",
+            "O",
+            "P",
+            "Q"
+        ],
+        "answer": "P",
+        "topic": "alphabetical series"
+    },
+    {
+        "question": "Identify the missing letter in the pattern: X, V, T, R, ?",
+        "options": [
+            "P",
+            "O",
+            "Q",
+            "S"
+        ],
+        "answer": "P",
+        "topic": "alphabetical series"
+    },
+    {
+        "question": "A person walks 10m north, turns right 5m, then left 10m. Which direction is he facing?",
+        "options": [
+            "North",
+            "South",
+            "East",
+            "West"
+        ],
+        "answer": "North",
+        "topic": "direction question"
+    },
+    {
+        "question": "If a person turns 90 degrees right from facing east, which direction is he facing?",
+        "options": [
+            "North",
+            "South",
+            "West",
+            "East"
+        ],
+        "answer": "South",
+        "topic": "direction question"
+    },
+    {
+        "question": "Sun is to Day as Moon is to?",
+        "options": [
+            "Stars",
+            "Night",
+            "Sky",
+            "Clouds"
+        ],
+        "answer": "Night",
+        "topic": "analogy"
+    },
+    {
+        "question": "Book is to Reading as Spoon is to?",
+        "options": [
+            "Eating",
+            "Cooking",
+            "Stirring",
+            "Writing"
+        ],
+        "answer": "Eating",
+        "topic": "analogy"
+    },
+    {
+        "question": "If today is Tuesday, what day will it be in 10 days?",
+        "options": [
+            "Friday",
+            "Saturday",
+            "Sunday",
+            "Monday"
+        ],
+        "answer": "Friday",
+        "topic": "calendar"
+    },
+    {
+        "question": "How many months in a year have 31 days?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "7",
+        "topic": "calendar"
+    },
+    {
+        "question": "If all roses are flowers and some flowers fade quickly, what can be concluded?",
+        "options": [
+            "All roses fade quickly",
+            "Some roses fade quickly",
+            "Some flowers do not fade quickly",
+            "None"
+        ],
+        "answer": "Some flowers do not fade quickly",
+        "topic": "logical reasoning"
+    },
+    {
+        "question": "Which statement is always true?",
+        "options": [
+            "Some birds are mammals",
+            "All squares have four sides",
+            "Water is always solid",
+            "All numbers are even"
+        ],
+        "answer": "All squares have four sides",
+        "topic": "logical reasoning"
+    },
+    {
+        "question": "Find the odd one out: Sun, Moon, Mars, Earth",
+        "options": [
+            "Sun",
+            "Moon",
+            "Mars",
+            "Earth"
+        ],
+        "answer": "Sun",
+        "topic": "odd one out"
+    },
+    {
+        "question": "Find the odd one out: Apple, Banana, Carrot, Tomato",
+        "options": [
+            "Apple",
+            "Banana",
+            "Carrot",
+            "Tomato"
+        ],
+        "answer": "Carrot",
+        "topic": "odd one out"
+    },
+    {
+        "question": "John is 7th from the left and 10th from the right. How many people are in the row?",
+        "options": [
+            "15",
+            "16",
+            "17",
+            "18"
+        ],
+        "answer": "16",
+        "topic": "position in row"
+    },
+    {
+        "question": "Emma is 10th from the front and 12th from the back in a queue. How many people are in the queue?",
+        "options": [
+            "20",
+            "21",
+            "22",
+            "23"
+        ],
+        "answer": "21",
+        "topic": "position in row"
+    },
+    {
+        "question": "A student scored 90 out of 120 marks. What is the percentage score?",
+        "options": [
+            "60%",
+            "70%",
+            "75%",
+            "80%"
+        ],
+        "answer": "75%",
+        "topic": "percentage"
+    },
+    {
+        "question": "A shirt originally costing \u20b9800 is on sale for 25% off. What is the final price?",
+        "options": [
+            "\u20b9600",
+            "\u20b9650",
+            "\u20b9700",
+            "\u20b9750"
+        ],
+        "answer": "\u20b9600",
+        "topic": "percentage"
+    },
+    {
+        "question": "Find the missing number in the series: 3, 6, 12, 24, ?, 96",
+        "options": [
+            "30",
+            "36",
+            "48",
+            "60"
+        ],
+        "answer": "48",
+        "topic": "numerical series"
+    },
+    {
+        "question": "What number comes next: 10, 20, 40, 80, ?",
+        "options": [
+            "100",
+            "120",
+            "160",
+            "200"
+        ],
+        "answer": "160",
+        "topic": "numerical series"
+    },
+    {
+        "question": "A is the mother of B. B is the sister of C. How is A related to C?",
+        "options": [
+            "Aunt",
+            "Mother",
+            "Sister",
+            "Grandmother"
+        ],
+        "answer": "Mother",
+        "topic": "blood relation"
+    },
+    {
+        "question": "If P is the father of Q and Q is the father of R, how is P related to R?",
+        "options": [
+            "Father",
+            "Grandfather",
+            "Son",
+            "Brother"
+        ],
+        "answer": "Grandfather",
+        "topic": "blood relation"
+    },
+    {
+        "question": "What should you do if your mobile phone falls in water?",
+        "options": [
+            "Ignore it",
+            "Switch it on immediately",
+            "Put it in rice",
+            "Throw it away"
+        ],
+        "answer": "Put it in rice",
+        "topic": "cause and effect"
+    },
+    {
+        "question": "If a traffic signal turns red, what should drivers do?",
+        "options": [
+            "Stop",
+            "Speed up",
+            "Honk",
+            "Ignore it"
+        ],
+        "answer": "Stop",
+        "topic": "cause and effect"
+    },
+    {
+        "question": "What is the next number in the series: 1, 4, 9, 16, ?",
+        "options": [
+            "20",
+            "24",
+            "25",
+            "30"
+        ],
+        "answer": "25",
+        "topic": "numerical series"
+    },
+    {
+        "question": "If water freezes at 0\u00b0C, what is the freezing point of water in Fahrenheit?",
+        "options": [
+            "-32\u00b0F",
+            "0\u00b0F",
+            "32\u00b0F",
+            "100\u00b0F"
+        ],
+        "answer": "32\u00b0F",
+        "topic": "science"
+    },
+    {
+      "question": "Compare the two lists below and choose the row(s) that contain errors.",
+      "options": [
+          "Row 1",
+          "Row 2",
+          "Row 3",
+          "Row 4"
+      ],
+      "answer": "Row 3",
+      "topic": "attention to detail"
+  },
+  {
+      "question": "Which number does NOT belong in the sequence: 2, 4, 8, 10, 16, 32?",
+      "options": [
+          "4",
+          "8",
+          "10",
+          "32"
+      ],
+      "answer": "10",
+      "topic": "odd one out"
+  },
+  {
+      "question": "Spot the difference: Which word is spelled incorrectly?",
+      "options": [
+          "Accommodate",
+          "Recieve",
+          "Occurrence",
+          "Necessary"
+      ],
+      "answer": "Recieve",
+      "topic": "spelling errors"
+  },
+  {
+      "question": "Find the duplicated word in the sentence: 'The cat sat on on the mat.'",
+      "options": [
+          "cat",
+          "on",
+          "the",
+          "mat"
+      ],
+      "answer": "on",
+      "topic": "grammar check"
+  },
+  {
+      "question": "Which of these clocks shows the correct time: 2:45 PM?",
+      "options": [
+          "Clock A",
+          "Clock B",
+          "Clock C",
+          "Clock D"
+      ],
+      "answer": "Clock C",
+      "topic": "time check"
+  },
+  {
+      "question": "Identify the missing letter in this sequence: B, D, F, ?, J",
+      "options": [
+          "H",
+          "I",
+          "K",
+          "G"
+      ],
+      "answer": "H",
+      "topic": "alphabet sequence"
+  },
+  {
+      "question": "Which shape is different from the others?",
+      "options": [
+          "Circle",
+          "Square",
+          "Triangle",
+          "Pentagon"
+      ],
+      "answer": "Pentagon",
+      "topic": "odd one out"
+  },
+  {
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+          "She don't like apples.",
+          "She doesn't like apples.",
+          "She not like apples.",
+          "She no like apples."
+      ],
+      "answer": "She doesn't like apples.",
+      "topic": "grammar check"
+  },
+  {
+      "question": "Find the incorrect equation: 3+3=6, 5x2=10, 8-3=6, 9/3=3",
+      "options": [
+          "3+3=6",
+          "5x2=10",
+          "8-3=6",
+          "9/3=3"
+      ],
+      "answer": "8-3=6",
+      "topic": "math errors"
+  },
+  {
+      "question": "Choose the word that doesn't fit: Apple, Banana, Carrot, Orange",
+      "options": [
+          "Apple",
+          "Banana",
+          "Carrot",
+          "Orange"
+      ],
+      "answer": "Carrot",
+      "topic": "odd one out"
+  },
+  {
+      "question": "Which sentence contains a punctuation error?",
+      "options": [
+          "Let's eat, Grandma!",
+          "Its a beautiful day.",
+          "I'm going to the store.",
+          "She said, 'Hello'."
+      ],
+      "answer": "Its a beautiful day.",
+      "topic": "punctuation errors"
+  },
+  {
+      "question": "Identify the number that does not belong: 11, 13, 17, 20, 23",
+      "options": [
+          "11",
+          "13",
+          "17",
+          "20"
+      ],
+      "answer": "20",
+      "topic": "odd one out"
+  },
+  {
+      "question": "Which logo is different from the others?",
+      "options": [
+          "Logo A",
+          "Logo B",
+          "Logo C",
+          "Logo D"
+      ],
+      "answer": "Logo C",
+      "topic": "visual comparison"
+  },
+  {
+      "question": "Find the incorrect spelling:",
+      "options": [
+          "Accommodate",
+          "Definitely",
+          "Recieve",
+          "Separate"
+      ],
+      "answer": "Recieve",
+      "topic": "spelling errors"
+  },
+  {
+      "question": "Which word is missing from this sentence: 'She _____ a great idea.'",
+      "options": [
+          "has",
+          "have",
+          "is",
+          "do"
+      ],
+      "answer": "has",
+      "topic": "grammar check"
+  },
+  {
+      "question": "Identify the mistake: 'The boy run to school every day.'",
+      "options": [
+          "boy",
+          "run",
+          "school",
+          "every"
+      ],
+      "answer": "run",
+      "topic": "grammar check"
+  },
+  {
+      "question": "Which item is out of place? Chair, Table, Apple, Sofa",
+      "options": [
+          "Chair",
+          "Table",
+          "Apple",
+          "Sofa"
+      ],
+      "answer": "Apple",
+      "topic": "odd one out"
+  },
+  {
+      "question": "Which price tag is formatted incorrectly?",
+      "options": [
+          "$10.99",
+          "$5,50",
+          "$25.00",
+          "$8.75"
+      ],
+      "answer": "$5,50",
+      "topic": "price formatting"
+  },
+  {
+      "question": "Find the incorrect sentence:",
+      "options": [
+          "I is happy.",
+          "She is running.",
+          "They are here.",
+          "We have arrived."
+      ],
+      "answer": "I is happy.",
+      "topic": "grammar errors"
+  },
+  {
+      "question": "Which pattern is different from the rest?",
+      "options": [
+          "Pattern A",
+          "Pattern B",
+          "Pattern C",
+          "Pattern D"
+      ],
+      "answer": "Pattern D",
+      "topic": "visual comparison"
+  },
+  {
+    "question": "He ________ to the market every day.",
+    "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+    ],
+    "answer": "goes",
+    "topic": "tenses"
+  },
+  {
+    "question": "She ________ a novel when I called her.",
+    "options": [
+        "reads",
+        "was reading",
+        "has read",
+        "read"
+    ],
+    "answer": "was reading",
+    "topic": "tenses"
+  },
+  {
+    "question": "If you study hard, you ________ the exam.",
+    "options": [
+        "pass",
+        "will pass",
+        "would pass",
+        "passes"
+    ],
+    "answer": "will pass",
+    "topic": "conditional sentences"
+  },
+  {
+    "question": "If I _______ rich, I would travel the world.",
+    "options": [
+        "am",
+        "were",
+        "was",
+        "be"
+    ],
+    "answer": "were",
+    "topic": "conditional sentences"
+  },
+  {
+    "question": "The letter ______ by John.",
+    "options": [
+        "is writing",
+        "was written",
+        "writes",
+        "wrote"
+    ],
+    "answer": "was written",
+    "topic": "active-passive voice"
+  },
+  {
+    "question": "They will complete the project next week. (Convert to passive)",
+    "options": [
+        "The project is completed next week.",
+        "The project was completed next week.",
+        "The project will be completed next week.",
+        "The project completes next week."
+    ],
+    "answer": "The project will be completed next week.",
+    "topic": "active-passive voice"
+  },
+  {
+    "question": "The book is _______ the table.",
+    "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+    ],
+    "answer": "on",
+    "topic": "preposition"
+  },
+  {
+    "question": "She is good ______ mathematics.",
+    "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+    ],
+    "answer": "at",
+    "topic": "preposition"
+  },
+  {
+    "question": "She adopted _______ orphan.",
+    "options": [
+        "a",
+        "an",
+        "the",
+        "none"
+    ],
+    "answer": "an",
+    "topic": "article"
+  },
+  {
+    "question": "We visited _______ Eiffel Tower last summer.",
+    "options": [
+        "a",
+        "an",
+        "the",
+        "none"
+    ],
+    "answer": "the",
+    "topic": "article"
+  },
+  {
+    "question": "Neither of the students ________ present today.",
+    "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+    ],
+    "answer": "is",
+    "topic": "subject-verb agreement"
+  },
+  {
+    "question": "Each of the players ________ a medal.",
+    "options": [
+        "receive",
+        "receives",
+        "receiving",
+        "received"
+    ],
+    "answer": "receives",
+    "topic": "subject-verb agreement"
+  },
+  {
+    "question": "Identify the error: She didn't knew about the meeting.",
+    "options": [
+        "She",
+        "didn't",
+        "knew",
+        "no error"
+    ],
+    "answer": "knew",
+    "topic": "common error"
+  },
+  {
+    "question": "Identify the error: He enjoys to swim every morning.",
+    "options": [
+        "He",
+        "enjoys",
+        "to swim",
+        "no error"
+    ],
+    "answer": "to swim",
+    "topic": "common error"
+  },
+  {
+    "question": "Correct the sentence: He is knowing the answer.",
+    "options": [
+        "He knows the answer.",
+        "He knowing the answer.",
+        "He has known the answer.",
+        "He is know the answer."
+    ],
+    "answer": "He knows the answer.",
+    "topic": "sentence correction"
+  },
+  {
+    "question": "Correct the sentence: She go to school every day.",
+    "options": [
+        "She goes to school every day.",
+        "She go school every day.",
+        "She going to school every day.",
+        "She is go to school every day."
+    ],
+    "answer": "She goes to school every day.",
+    "topic": "sentence correction"
+  },
+  {
+    "question": "Reorder the sentence: 'playing / the children / in the park / are'.",
+    "options": [
+        "The children are playing in the park.",
+        "Are the children playing in the park.",
+        "In the park are playing the children.",
+        "The park in playing are the children."
+    ],
+    "answer": "The children are playing in the park.",
+    "topic": "reorder sentences"
+  },
+  {
+    "question": "Reorder the sentence: 'book / interesting / an / is / this'.",
+    "options": [
+        "This is an interesting book.",
+        "An interesting book is this.",
+        "Is this book an interesting.",
+        "Book interesting an is this."
+    ],
+    "answer": "This is an interesting book.",
+    "topic": "reorder sentences"
+  },
+  {
+    "question": "You _______ leave early to catch the train.",
+    "options": [
+        "should better",
+        "had better",
+        "would better",
+        "have better"
+    ],
+    "answer": "had better",
+    "topic": "grammar pattern"
+  },
+  {
+    "question": "I will call you _______ I reach home.",
+    "options": [
+        "as soon as",
+        "when",
+        "before",
+        "after"
+    ],
+    "answer": "as soon as",
+    "topic": "grammar pattern"
+  },
+  {
+    "question": "Opposite of 'generous' is _______.",
+    "options": [
+        "selfish",
+        "kind",
+        "humble",
+        "thoughtful"
+    ],
+    "answer": "selfish",
+    "topic": "opposite word"
+  },
+  {
+    "question": "Opposite of 'brave' is _______.",
+    "options": [
+        "fearful",
+        "strong",
+        "bold",
+        "daring"
+    ],
+    "answer": "fearful",
+    "topic": "opposite word"
+  },
+  {
+    "question": "Synonym of 'happy' is _______.",
+    "options": [
+        "joyful",
+        "sad",
+        "angry",
+        "miserable"
+    ],
+    "answer": "joyful",
+    "topic": "synonyms word"
+  },
+  {
+    "question": "Synonym of 'fast' is _______.",
+    "options": [
+        "quick",
+        "slow",
+        "steady",
+        "delayed"
+    ],
+    "answer": "quick",
+    "topic": "synonyms word"
+  },
+  {
+    "question": "She ________ dinner when I arrived.",
+    "options": ["cooks", "cooked", "was cooking", "has cooked"],
+    "answer": "was cooking",
+    "topic": "tenses"
+  },
+  {
+    "question": "By the time he arrived, we ______ our meal.",
+    "options": ["finish", "finished", "had finished", "were finishing"],
+    "answer": "had finished",
+    "topic": "tenses"
+  },
+  {
+    "question": "If I ______ you, I would take the job.",
+    "options": ["am", "was", "were", "be"],
+    "answer": "were",
+    "topic": "conditional sentences"
+  },
+  {
+    "question": "If she ______ earlier, she wouldn't have missed the bus.",
+    "options": ["left", "had left", "leaves", "leaving"],
+    "answer": "had left",
+    "topic": "conditional sentences"
+  },
+  {
+    "question": "The project ______ next month.",
+    "options": ["is completed", "was completed", "will be completed", "completes"],
+    "answer": "will be completed",
+    "topic": "active-passive voice"
+  },
+  {
+    "question": "The keys are ______ the table.",
+    "options": ["on", "in", "at", "by"],
+    "answer": "on",
+    "topic": "preposition"
+  },
+  {
+    "question": "She is interested ______ learning new languages.",
+    "options": ["in", "on", "at", "by"],
+    "answer": "in",
+    "topic": "preposition"
+  },
+  {
+    "question": "I saw ______ elephant at the zoo.",
+    "options": ["a", "an", "the", "none"],
+    "answer": "an",
+    "topic": "article"
+  },
+  {
+    "question": "We visited ______ Taj Mahal last year.",
+    "options": ["a", "an", "the", "none"],
+    "answer": "the",
+    "topic": "article"
+  },
+  {
+    "question": "Identify the error: She didn't knew about the meeting.",
+    "options": ["She", "didn't", "knew", "no error"],
+    "answer": "knew",
+    "topic": "common error"
+  },
+  {
+    "question": "Identify the error: He enjoys to swim every morning.",
+    "options": ["He", "enjoys", "to swim", "no error"],
+    "answer": "to swim",
+    "topic": "common error"
+  },
+  {
+    "question": "Correct the sentence: He is knowing the answer.",
+    "options": ["He knows the answer.", "He knowing the answer.", "He has known the answer.", "He is know the answer."],
+    "answer": "He knows the answer.",
+    "topic": "sentence correction"
+  },
+  {
+    "question": "Reorder the sentence: 'playing / the children / in the park / are'.",
+    "options": ["The children are playing in the park.", "Are the children playing in the park.", "In the park are playing the children.", "The park in playing are the children."],
+    "answer": "The children are playing in the park.",
+    "topic": "reorder sentences"
+  },
+  {
+    "question": "Opposite of 'generous' is _______.",
+    "options": ["selfish", "kind", "humble", "thoughtful"],
+    "answer": "selfish",
+    "topic": "opposite word"
+  },
+  {
+    "question": "Synonym of 'happy' is _______.",
+    "options": ["joyful", "sad", "angry", "miserable"],
+    "answer": "joyful",
+    "topic": "synonyms word"
+  },
+  {
+    "question": "Which of these sentences is punctuated correctly?",
+    "options": ["Its a beautiful day.", "It's a beautiful day.", "Its' a beautiful day.", "Its's a beautiful day."],
+    "answer": "It's a beautiful day.",
+    "topic": "punctuation"
+  }
+      
+    ] 
+  }
+  
+  
+  
+  
+  
+  
+  

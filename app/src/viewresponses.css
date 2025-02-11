@@ -1,0 +1,103 @@
+/* General Styling */
+
+.container {
+    padding: 20px;
+    max-width:1000px;
+    margin: auto;
+    font-family: "Arial", sans-serif;
+    background-color: #f52d3e;
+  }
+  
+  .title {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .loading {
+    text-align: center;
+    font-size: 18px;
+    color: #007bff;
+  }
+  
+  .error {
+    text-align: center;
+    font-size: 18px;
+    color: red;
+  }
+  
+  .no-data {
+    text-align: center;
+    font-size: 18px;
+    color: #555;
+  }
+  
+  /* User Card */
+  .user-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .user-card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .user-card:hover {
+    transform: scale(1.02);
+  }
+  
+  .user-header {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .score {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  /* Response List */
+  .response-list {
+    padding-left: 20px;
+  }
+  
+  .response-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    transition: background 0.2s;
+  }
+  
+  .correct {
+    background: #d4edda;
+  }
+  
+  .incorrect {
+    background: #f8d7da;
+  }
+  
+  /* Answer Styling */
+  .answer {
+    font-weight: bold;
+    padding: 3px 5px;
+    border-radius: 5px;
+  }
+  
+  .correct-answer {
+    color: green;
+  }
+  
+  .wrong-answer {
+    color: red;
+  }
+  
+  .correct-text {
+    color: blue;
+    font-weight: bold;
+  }

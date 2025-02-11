@@ -1,0 +1,383 @@
+{
+    "questions":[
+    {
+    
+    "question": "I’d rather she _______ with us to the event.",
+    "options": ["stays", "stayed", "stay", "staying"],
+    "answer": "stayed",
+    "topic": "Sentence Structure"
+},
+{
+    "question": "She would have won the race _______ her injury.",
+    "options": ["because of", "but for", "due to", "unless"],
+    "answer": "but for",
+    "topic": "Conditionals"
+},
+{
+    "question": "I wish I _______ the truth earlier.",
+    "options": ["know", "had known", "knew", "knows"],
+    "answer": "had known",
+    "topic": "Tenses"
+},
+{
+    "question": "By the time the show starts, I _______ the tickets.",
+    "options": ["will collect", "will have collected", "collected", "have collected"],
+    "answer": "will have collected",
+    "topic": "Future Perfect Tense"
+},
+{
+    "question": "Little _______ that her actions would have such consequences.",
+    "options": ["I know", "I did know", "did I know", "had I known"],
+    "answer": "did I know",
+    "topic": "Inversions"
+},
+{
+    "question": "Hardly ever _______ to crowded places.",
+    "options": ["does he go", "he goes", "he does go", "he going"],
+    "answer": "does he go",
+    "topic": "Inversions"
+},
+{
+    "question": "If only I _______ more effort, I could have won the competition.",
+    "options": ["put", "putting", "had put", "have put"],
+    "answer": "had put",
+    "topic": "Conditionals"
+},
+{
+    "question": "I wish I _______ more time to finish the project.",
+    "options": ["have", "had", "will have", "having"],
+    "answer": "had",
+    "topic": "Wishes & Hypotheticals"
+},
+{
+    "question": "Rarely _______ a team so determined to succeed.",
+    "options": ["had I seen", "have I seen", "I saw", "I had seen"],
+    "answer": "have I seen",
+    "topic": "Inversions"
+},
+{
+    "question": "If she _______ earlier, she might have caught the train.",
+    "options": ["arrives", "had arrived", "arrived", "has arrived"],
+    "answer": "had arrived",
+    "topic": "Conditionals"
+},
+{
+    "question": "By the time the train arrived, we _______ our dinner.",
+    "options": ["will finish", "will have finished", "had finished", "finish"],
+    "answer": "had finished",
+    "topic": "Past Perfect Tense"
+},
+{
+    "question": "By the time we got to the station, the train _______ .",
+    "options": ["will leave", "will have left", "had left", "leaves"],
+    "answer": "had left",
+    "topic": "Past Perfect Tense"
+},
+{
+    "question": "I’d rather you _______ earlier next time.",
+    "options": ["arrive", "arrived", "arriving", "arrives"],
+    "answer": "arrived",
+    "topic": "Sentence Structure"
+},
+{
+    "question": "The lawyer demanded that the evidence _______ rechecked.",
+    "options": ["is", "be", "was", "being"],
+    "answer": "be",
+    "topic": "Subjunctive Mood"
+},
+{
+    "question": "Given her background in finance, she was chosen to lead the project.",
+    "options": ["except", "despite", "given", "unless"],
+    "answer": "given",
+    "topic": "Prepositions & Conjunctions"
+},
+{
+    "question": "No sooner _______ the bell rung than the students rushed out.",
+    "options": ["did", "does", "had", "has"],
+    "answer": "had",
+    "topic": "Inversions"
+  },
+  {
+    "question": "Scarcely _______ the movie begun when the power went out.",
+    "options": ["did", "had", "has", "was"],
+    "answer": "had",
+    "topic": "Inversions"
+  },
+  {
+    "question": "If I _______ you, I would take that opportunity.",
+    "options": ["am", "were", "was", "be"],
+    "answer": "were",
+    "topic": "Conditionals"
+  },
+  {
+    "question": "Not only _______ a great writer, but he was also an inspiring teacher.",
+    "options": ["he was", "was he", "he is", "is he"],
+    "answer": "was he",
+    "topic": "Inversions"
+  },
+  {
+    "question": "By next month, she _______ in the company for five years.",
+    "options": ["will work", "will have worked", "has worked", "worked"],
+    "answer": "will have worked",
+    "topic": "Future Perfect Tense"
+  },
+  {
+    "question": "We insisted that he _______ the report before leaving.",
+    "options": ["finishes", "finished", "finish", "will finish"],
+    "answer": "finish",
+    "topic": "Subjunctive Mood"
+  },
+  {
+    "question": "If she _______ harder, she could have won the competition.",
+    "options": ["tries", "had tried", "tried", "try"],
+    "answer": "had tried",
+    "topic": "Conditionals"
+  },
+  {
+    "question": "No sooner _______ the match started than it began to rain.",
+    "options": ["had", "did", "has", "was"],
+    "answer": "had",
+    "topic": "Inversions"
+  },
+  {
+    "question": "I regret _______ that mistake in my report.",
+    "options": ["to make", "making", "made", "make"],
+    "answer": "making",
+    "topic": "Gerunds & Infinitives"
+  },
+  {
+    "question": "Despite _______ hard, he failed the exam.",
+    "options": ["work", "working", "worked", "to work"],
+    "answer": "working",
+    "topic": "Prepositions & Gerunds"
+  },
+  {
+    "question": "It's time we _______ the truth.",
+    "options": ["knows", "knew", "know", "knowing"],
+    "answer": "knew",
+    "topic": "Wishes & Hypotheticals"
+  },
+  {
+    "question": "Neither of the answers _______ correct.",
+    "options": ["is", "are", "were", "be"],
+    "answer": "is",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "question": "If I _______ rich, I would travel the world.",
+    "options": ["am", "was", "were", "be"],
+    "answer": "were",
+    "topic": "Conditionals"
+  },
+  {
+    "question": "She’s the woman _______ I was telling you about.",
+    "options": ["who", "whose", "whom", "which"],
+    "answer": "whom",
+    "topic": "Relative Clauses"
+  },
+  {
+    "question": "They managed to finish the project _______ the lack of resources.",
+    "options": ["despite", "although", "because", "due to"],
+    "answer": "despite",
+    "topic": "Prepositions & Conjunctions"
+  },
+  {
+    "question": "She is used to _______ up early.",
+    "options": ["wake", "waking", "woke", "wakes"],
+    "answer": "waking",
+    "topic": "Gerunds & Infinitives"
+  },
+  {
+    "question": "The more you practice, the _______ you get.",
+    "options": ["better", "best", "good", "more good"],
+    "answer": "better",
+    "topic": "Comparatives & Superlatives"
+  },
+  {
+    "question": "The committee, along with the manager, _______ making a decision.",
+    "options": ["are", "is", "were", "be"],
+    "answer": "is",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "question": "Neither the teacher nor the students _______ aware of the changes.",
+    "options": ["is", "are", "was", "were"],
+    "answer": "are",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "question": "He is the only one who _______ how to fix it.",
+    "options": ["know", "knows", "knew", "known"],
+    "answer": "knows",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "question": "It’s high time they _______ the rules.",
+    "options": ["change", "changed", "changing", "changes"],
+    "answer": "changed",
+    "topic": "Wishes & Hypotheticals"
+  },
+  {
+    "question": "They insisted on _______ the documents immediately.",
+    "options": ["receive", "receiving", "received", "to receive"],
+    "answer": "receiving",
+    "topic": "Gerunds & Infinitives"
+  },
+  {
+    "question": "She speaks English as though she _______ a native speaker.",
+    "options": ["is", "were", "was", "be"],
+    "answer": "were",
+    "topic": "Wishes & Hypotheticals"
+  },
+  {
+    "question": "The teacher recommended that he _______ more.",
+    "options": ["studies", "study", "studying", "studied"],
+    "answer": "study",
+    "topic": "Subjunctive Mood"
+  },
+  {
+    "question": "He acts as if he _______ everything.",
+    "options": ["know", "knows", "knew", "known"],
+    "answer": "knew",
+    "topic": "Wishes & Hypotheticals"
+  },
+  {
+    "question": "Neither of them _______ coming to the party.",
+    "options": ["is", "are", "were", "be"],
+    "answer": "is",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "question": "Would you mind _______ the window?",
+    "options": ["open", "opening", "opened", "to open"],
+    "answer": "opening",
+    "topic": "Gerunds & Infinitives"
+  },
+  {
+    "question": "By the time we arrived, the meeting _______.",
+    "options": ["had started", "started", "starts", "was starting"],
+    "answer": "had started",
+    "topic": "Past Perfect Tense"
+  },
+  {
+    "question": "The book, along with the notes, _______ on the table.",
+    "options": ["is", "are", "were", "be"],
+    "answer": "is",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "question": "It is essential that he _______ on time.",
+    "options": ["arrive", "arrives", "arrived", "arriving"],
+    "answer": "arrive",
+    "topic": "Subjunctive Mood"
+  },
+  {
+    "question": "I saw ______ elephant at the zoo.",
+    "options": ["an", "a", "the", "no article"],
+    "answer": "an",
+    "topic": "Articles",
+    "subject": "grammar"
+  },
+  {
+    "question": "We need to buy ______ bread for breakfast.",
+    "options": ["some", "a", "an", "the"],
+    "answer": "some",
+    "topic": "Articles",
+    "subject": "grammar"
+  },
+  {
+    "question": "She is interested ______ learning French.",
+    "options": ["in", "on", "at", "with"],
+    "answer": "in",
+    "topic": "Prepositions",
+    "subject": "grammar"
+  },
+  {
+    "question": "She was born ______ July.",
+    "options": ["in", "on", "at", "from"],
+    "answer": "in",
+    "topic": "Prepositions",
+    "subject": "grammar"
+  },
+  {
+    "question": "He is afraid ______ spiders.",
+    "options": ["of", "from", "for", "to"],
+    "answer": "of",
+    "topic": "Prepositions",
+    "subject": "grammar"
+  },
+  {
+    "question": "He is married ______ a doctor.",
+    "options": ["to", "with", "for", "by"],
+    "answer": "to",
+    "topic": "Prepositions",
+    "subject": "grammar"
+  },
+  {
+    "question": "The book is kept ______ the shelf.",
+    "options": ["in", "on", "at", "over"],
+    "answer": "on",
+    "topic": "Prepositions",
+    "subject": "grammar"
+  },
+  {
+    "question": "There is ______ university in my city.",
+    "options": ["a", "an", "the", "no article"],
+    "answer": "a",
+    "topic": "Articles",
+    "subject": "grammar"
+  },
+  {
+    "question": "Could you give me ______ advice?",
+    "options": ["an", "some", "a", "many"],
+    "answer": "some",
+    "topic": "Quantifiers",
+    "subject": "grammar"
+  },
+  {
+    "question": "The train departs ______ 6 PM every day.",
+    "options": ["on", "in", "at", "by"],
+    "answer": "at",
+    "topic": "Prepositions of Time",
+    "subject": "grammar"
+  },
+  {
+    "question": "I prefer tea ______ coffee.",
+    "options": ["than", "to", "over", "for"],
+    "answer": "to",
+    "topic": "Prepositions",
+    "subject": "grammar"
+  },
+  {
+    "question": "She is good ______ singing.",
+    "options": ["at", "in", "with", "by"],
+    "answer": "at",
+    "topic": "Prepositions",
+    "subject": "grammar"
+  },
+  {
+    "question": "Neither of the students ______ present in the class.",
+    "options": ["was", "were", "have been", "are"],
+    "answer": "was",
+    "topic": "Subject-Verb Agreement",
+    "subject": "grammar"
+  },
+  {
+    "question": "Each of the players ______ awarded a medal.",
+    "options": ["was", "were", "have been", "are"],
+    "answer": "was",
+    "topic": "Subject-Verb Agreement",
+    "subject": "grammar"
+  },
+  {
+    "question": "She insisted ______ seeing the manager immediately.",
+    "options": ["on", "in", "with", "for"],
+    "answer": "on",
+    "topic": "Prepositions",
+    "subject": "grammar"
+  }
+
+]
+}
+
+

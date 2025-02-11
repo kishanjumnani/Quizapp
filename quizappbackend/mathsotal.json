@@ -1,0 +1,134 @@
+{
+    "questions": [
+        {
+            "question": "A woman is 5 years older than her brother. If the sum of their ages is 54, how old are they now?",
+            "options": [
+                "24 and 30",
+                "20 and 26",
+                "18 and 24",
+                "28 and 34"
+            ],
+            "answer": "24 and 30",
+            "topic": "ages",
+            "subject": "math",
+            "level": "medium"
+        },
+        {
+            "question": "The sum of the ages of a father and his son is 50 years. The father's age is twice that of his son. How old is the son?",
+            "options": [
+                "15",
+                "20",
+                "25",
+                "10"
+            ],
+            "answer": "15",
+            "topic": "ages",
+            "subject": "math",
+            "level": "medium"
+        },
+        {
+            "question": "A mother is three times as old as her daughter. In 12 years, she will be twice as old as her daughter. What is the daughter's current age?",
+            "options": [
+                "10",
+                "12",
+                "15",
+                "18"
+            ],
+            "answer": "12",
+            "topic": "ages",
+            "subject": "math",
+            "level": "medium"
+        },
+        {
+            "question": "The sum of the ages of two people is 60. One is twice the age of the other. Find their ages.",
+            "options": [
+                "20 and 40",
+                "25 and 35",
+                "15 and 45",
+                "30 and 30"
+            ],
+            "answer": "20 and 40",
+            "topic": "ages",
+            "subject": "math",
+            "level": "medium"
+        },
+        {
+            "question": "A grandfather is 6 times the age of his grandson. In 10 years, he will be 3 times the age of his grandson. Find the grandson's age.",
+            "options": [
+                "5",
+                "10",
+                "15",
+                "20"
+            ],
+            "answer": "5",
+            "topic": "ages",
+            "subject": "math",
+            "level": "medium"
+        },
+        {
+            "question": "Find the next term in the sequence: 3, 6, 11, 18, ?",
+            "options": [
+                "25",
+                "28",
+                "29",
+                "27"
+            ],
+            "answer": "29",
+            "topic": "sequences",
+            "subject": "math",
+            "level": "medium"
+        },
+        {
+            "question": "Identify the missing term: 2, 5, 10, 17, ?",
+            "options": [
+                "24",
+                "25",
+                "26",
+                "27"
+            ],
+            "answer": "26",
+            "topic": "sequences",
+            "subject": "math",
+            "level": "medium"
+        },
+        {
+            "question": "What comes next in the series? 4, 9, 16, 25, ?",
+            "options": [
+                "36",
+                "37",
+                "38",
+                "40"
+            ],
+            "answer": "36",
+            "topic": "sequences",
+            "subject": "math",
+            "level": "medium"
+        },
+        {
+            "question": "Find the missing term: 5, 10, 17, 26, ?",
+            "options": [
+                "34",
+                "35",
+                "36",
+                "37"
+            ],
+            "answer": "37",
+            "topic": "sequences",
+            "subject": "math",
+            "level": "medium"
+        },
+        {
+            "question": "Identify the missing term: 1, 4, 9, 16, ?, 36",
+            "options": [
+                "20",
+                "24",
+                "25",
+                "30"
+            ],
+            "answer": "25",
+            "topic": "sequences",
+            "subject": "math",
+            "level": "medium"
+        }
+    ]
+}

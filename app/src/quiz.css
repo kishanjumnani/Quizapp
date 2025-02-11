@@ -1,0 +1,228 @@
+🌍 General Styles
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+
+  overflow-x: hidden; 
+}
+.wrap{
+  position: relative;
+ 
+  display: flex;
+  flex-direction: column;
+
+  width: 100vw;
+  background-color: #007bff;
+
+}
+
+.timer-container {
+  text-align: center;
+  top: 0px;
+  height: 100px;
+  width: 100vw;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #004d00; /* Dark Green */
+  /* padding: 10px 20px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto; */
+}
+
+.timer-text {
+  font-weight: bold;
+  color: #c27171; /* Dark Red */
+}
+
+.quiz-wrap {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  width:100vw;
+  justify-content: center;
+}
+
+/* 🎯 Dashboard Container */
+.dashboard-container {
+  position: relative;
+ height: 600px;
+  top:100px;
+  
+  background: rgba(0, 0, 0, 0.9);
+  
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 8px;
+  justify-content: center;
+
+}
+
+
+/* 📜 Question Container (Below Dashboard) */
+.question-container {
+  position: relative;
+  top: 200px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  font-size: 18px;
+  color: #333;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  
+}
+/* 🔘 Jump Buttons (Circular) */
+.jump-button {
+  width: 50px;
+  height: 50px;
+  font-size: 1rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* margin: 5px; */
+  /* padding: 0; */
+  outline: none;
+  background-color: #bdc3c7;
+  color: black;
+}
+
+/* 🟢 Answered Questions */
+.jump-button.answered {
+  background: #28a745;
+  color: white;
+}
+
+/* 🔴 Skipped Questions */
+.jump-button.skipped {
+  background: #ff4757;
+  color: white;
+}
+
+/* 🔵 Selected Question */
+.jump-button.selected {
+  background: #007bff;
+  color: white;
+  transform: scale(1.1);
+  border: 2px solid white;
+}
+
+
+/* 📌 Button Group */
+.btn-group {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  justify-content: center;
+}
+
+/* 🟦 Next Button */
+.btn-next {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn-next:hover {
+  background-color: #0056b3;
+}
+
+/* 🔴 Skip Button */
+.btn-skip {
+  background-color: #ff4757;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn-skip:hover {
+  background-color: #d63031;
+}
+
+/* ⏳ Timer Styling */
+.timer {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+/* 📱 Mobile Optimization */
+@media (max-width: 768px) {
+  .dashboard-container {
+    flex-wrap: wrap;
+    padding: 10px;
+  }
+
+  .jump-button {
+    width: 40px;
+    height: 40px;
+    font-size: 0.9rem;
+  }
+
+  .question-container {
+    width: 90vw;
+  }
+}
+.btn-finish {
+  background-color: #28a745; /* Green for finishing */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn-finish:hover {
+  background-color: #218838;
+}
+.answer-button.selected {
+  background-color: green;
+  color: white;
+  font-weight: bold;
+  border: 2px solid white;
+}
+
+.btn-answered {
+  background-color: green !important;
+  color: white;
+}
+
+.btn-skipped {
+  background-color: red !important;
+  color: white;
+}
+
+.btn-selected {
+  background-color: yellow !important;
+  color: black;
+}
+
+.btn-unanswered {
+  background-color: gray !important;
+  color: white;
+}
