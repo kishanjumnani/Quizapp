@@ -252,7 +252,7 @@ const ResponseSchema = new mongoose.Schema(
 );
 
 const ResponseModel = mongoose.model("Response", ResponseSchema); // ✅ Fixed Model Reference
-
+consol.log("kishan");
 // ✅ API to Fetch Latest Score for a User
 app.get("/api/saved-response/:username/latest", async (req, res) => {
   try {
